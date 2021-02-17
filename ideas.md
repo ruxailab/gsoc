@@ -8,6 +8,7 @@ All the current ideas for GSoC2021 are listed bellow:
 The world wide situation caused by COVID-19 affected several areas of knowledge and changed the world as it was known. For this reason we are forced to seek new strategies and ways to perform works that were done into a face-to-face environment to remote ones.
 Usability testing LAB. fits with this premise and for these reasons it should be addressed to relearn what was done in local environments and change to new paradigms that remote systems could offer. This work will be focused on the development of a set of tools that will provide the foundations of an open source community that helps to develop the future of the usability LABs.
 
+---
 ### Development of an eye tracking recognition system
 ***Keywords:** Artificial Inteligence (AI), Accessibility, Javascript, Front-end.*
 
