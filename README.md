@@ -4,7 +4,7 @@
 
 ## Before the application
 
-Before applying directly to Google Summer of Code Dashboard we recommend you to get in touch with our community. Join our [Discord](https://discord.gg/HrkNfE5c), introduce yourself, ask questions about the projects, get in touch with mentors and learn how you can start contributing to the Uramaki LAB project. If you don't have a discord or prefer to send an e-mail you can contact us at `uramakilab@gmail.com `. 
+Before applying directly to Google Summer of Code Dashboard we recommend you to get in touch with our community. Join our [Discord](https://discord.gg/HrkNfE5c), introduce yourself, ask questions about the projects, get in touch with mentors and learn how you can start contributing to the Uramaki LAB project. If you don't have a discord or prefer to send an e-mail you can contact us at `uramakilab@gmail.com`. 
 
 In our organization we value the people who are pro active, hardworking and that sees always the big picture, thinking about how their work can contribute to the community and to the open source world, thus it is a good idea to start colaborating with us early so we can get to know you better.
 
@@ -23,7 +23,7 @@ We don't expect you to be familiar with all the projects code, as you have enoug
 
 ## How to apply
  
-The application process is resumed to writting a document containing information about you, the task you chose and how you will implement it. Follow the [Proposal Template](/proposal-template.pdf) for a better reference. Submit the document (PDF) in the Google Summer of Code Dashboard, name the file according to your name. 
+The application process is resumed to writting a document containing information about you, the task you chose and how you will implement it. Follow the [Proposal Template](/proposal-template.docx) for a better reference. Submit the document (PDF) in the Google Summer of Code Dashboard, name the file according to your name. 
 
 Your Proposal Document needs to have:
 
