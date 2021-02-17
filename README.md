@@ -40,7 +40,7 @@ Your Proposal Document needs to have:
 * Schedule
 
 
-IMPORTANT: Don't forget to register at: [https://summerofcode.withgoogle.com/](https://summerofcode.withgoogle.com/). Proposals will be reviewed only AFTER you submitted the proposal and your registration to Google Summer of Code 2021.
+**IMPORTANT**: Don't forget to register at: [https://summerofcode.withgoogle.com/](https://summerofcode.withgoogle.com/). Proposals will be reviewed only AFTER you submitted the proposal and your registration to Google Summer of Code 2021.
 
 ## Ideas page
 
