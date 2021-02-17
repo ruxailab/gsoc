@@ -1,6 +1,6 @@
 # GSOC-2021
 
-<ABOUT THE ORG>
+---ABOUT THE ORG----
 
 ## Before the application
 
@@ -23,8 +23,25 @@ We don't expect you to be familiar with all the projects code, as you have enoug
 
 ## How to apply
  
-The application process is resumed to writting a document containing information about you, the task you chose and how you will implement it. You can follow the 
- 
+The application process is resumed to writting a document containing information about you, the task you chose and how you will implement it. Follow the [Proposal Template](/proposal-template.pdf) for a better reference. Submit the document (PDF) in the Google Summer of Code Dashboard, name the file according to your name. 
+
+Your Proposal Document needs to have:
+
+* Your full name
+* Timezone or Country
+* Your e-mail
+* Project Title
+* Possible mentor (optional, but it would be good if you have one)
+* About you
+* Contributions with open source + experiences (optional, but if you have some don't hesitate on sharing)
+* Benefits of your project for the community and the open source world
+* Description of what you will do
+* Deliverables
+* Schedule
+
+
+IMPORTANT: Don't forget to register at: [https://summerofcode.withgoogle.com/](https://summerofcode.withgoogle.com/). Proposals will be reviewed only AFTER you submitted the proposal and your registration to Google Summer of Code 2021.
+
 ## Ideas page
 
 Check out our project's ideas on the [Ideas Page](/ideas.md), see if you find something that catches your attention. If you don't get interested in one of the proposals or has another idea that you want to make, validade it with one of the mentors before submitting your proposal.
