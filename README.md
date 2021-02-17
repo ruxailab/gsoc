@@ -22,11 +22,12 @@ In our organization we value the people who are pro active, hardworking and that
 We don't expect you to be familiar with all the projects code, as you have enough time to learn about it during the bonding period, but if you are already familiar or has contributed you will have extra points.
 
 ## How to apply
-  
+ 
+The application process is resumed to writting a document containing information about you, the task you chose and how you will implement it. You can follow the 
  
 ## Ideas page
 
-Check out our project's ideas on the [Ideas Page](), see if you find something that catches your attention. If you don't get interested in one of the proposals or has another idea that you want to make, validade it with one of the mentors before submitting your proposal.
+Check out our project's ideas on the [Ideas Page](/ideas.md), see if you find something that catches your attention. If you don't get interested in one of the proposals or has another idea that you want to make, validade it with one of the mentors before submitting your proposal.
 
 
 #### We'll be waiting for you, Good Luck!!! :D
