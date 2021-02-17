@@ -1,5 +1,7 @@
 # GSOC-2021
 
+![uramaki-lab](/uramaki-logo.png)
+
 ---ABOUT THE ORG----
 
 ## Before the application
