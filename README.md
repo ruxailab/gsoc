@@ -2,7 +2,9 @@
 
 ![uramaki-lab](/uramaki-logo.png)
 
----ABOUT THE ORG----
+For a long time, the evaluation of user interfaces by user testing techniques, has been one of the most successful ways to getfeedback from the users. HCI experts usually perform their experimental evaluations sessions in usability labs, indoor facilities with equiped with expensive and not available devices for everybody like eye-tracking devices or multi-rooms with specialised software. 
+
+The main goal of UramakiLAB is create a set of open source toolchains that helps to perform usability tests in a remote environment. Our core is a system that allows to do remote heuristic tests and share the studies to other participants, creating at the same time a social network of developers who wants to get in touch with the studies of their collegues. On 2021 we expect to start creating eye tracking systems using TensorFlow framework.
 
 ## Before the application
 
