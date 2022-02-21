@@ -9,7 +9,7 @@ The world wide situation caused by COVID-19 affected several areas of knowledge 
 Usability testing LAB. fits with this premise and for these reasons it should be addressed to relearn what was done in local environments and change to new paradigms that remote systems could offer. This work will be focused on the development of a set of tools that will provide the foundations of an open source community that helps to develop the future of the usability LABs.
 
 ---
-### Development of an eye tracking recognition system
+### Continue development of an eye tracking recognition system
 ***Keywords:** Artificial Inteligence (AI), Accessibility, Javascript, Front-end.*
 
 Eye tracking is a sensor technology that makes it possible for a computer or other device to know where a person is looking. An eye tracker can detect the presence, attention and focus of the user. It allows for unique insights into human behavior and facilitates natural user interfaces in a broad range of devices. The ability to control a computer using the eyes is also vital for people who are unable to speak or use their hands. 
@@ -63,14 +63,6 @@ Click maps show you an aggregate of where visitors click their mouse on desktop 
 ***Keywords:** Artificial Inteligence (AI), Remote Usability Testing, Development.*
 
 Move maps track where desktop users move their mouse as they navigate the page. The hot spots in a move map represent where users have moved their cursor on a page, and research suggests a correlation between where people are looking and where their mouse is—meaning that a move map gives you an indication of where people might be looking as they go through your page. After researching similar methods that use the same protocol, it will be developed a new one and compared with the others.
-
----
-
-### Eye tracking system
-***Keywords:** Artificial Inteligence (AI), Sentimental Analysis, Journey Maps, Research.*
-
-During eye-tracking tests, researchers observe and study users' eye movements using a special pupil-tracking device mounted on a computer. By analyzing where users direct their attention when asked to complete a task, the machine can create heatmaps or movement pathway diagrams.
-Eye-tracking studies can be used to glean information about how users interact visually with a page; they also help test layout and design elements and see what may be distracting or taking someone's focus away from the main page elements. The downside? Cost: an eye-tracking study requires you to rent a lab with special equipment and dedicated software (plus the trained technician who can help you calibrate the device).
 
 ---
 
