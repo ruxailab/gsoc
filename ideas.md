@@ -2,6 +2,23 @@
 
 All the current ideas for GSoC2022 are listed bellow:
 
+
+### Virtual Reality app to virtual prototyping UI into VR (350h)
+***Keywords:** User Experience (UX), Remote Usability, Research.*
+
+There is no existing tool that allows to prototype UI into VR. Some approaches has been done but until now it is possible to draw surfaces, planes, objects, etc. However, imagina that could be possible to design interfaces or VR applications with and own VR experience. On this project we want to create new method of prototyping Virtual Reality on VR.
+
+**Expected outcome:** A VR application done in Open VR 
+
+**Skills required:** Unity, C#, Python
+
+**Possible mentors:** TBA (Brazil and Spain)
+
+**Difficulty:** Hard
+
+---
+
+
 ### Implementation of an Open Source tool based on usability remote testing (350h)
 ***Keywords:** Remote Usability Testing, Usability Laboratory.*
 
@@ -12,7 +29,7 @@ Usability testing LAB. fits with this premise and for these reasons it should be
 
 **Skills required:** Vuejs, Javascript, Firebase.
 
-**Possible mentors:**  TBA
+**Possible mentors:**  TBA (Brazil)
 
 **Difficulty:** Medium
 
@@ -42,7 +59,7 @@ Tons of technologies are used to evaluate psychology emotions on the study of us
 
 **Skills required:** Per idea
 
-**Possible mentors:** TBA
+**Possible mentors:** TBA (Brazil)
 
 **Difficulty:** Hard
 
@@ -60,7 +77,7 @@ This work is focused to find new heuristics methods that can be applied to these
 
 **Skills required:** Per idea
 
-**Possible mentors:** TBA
+**Possible mentors:** TBA (Spain)
 
 **Difficulty:** Hard
 
@@ -76,7 +93,7 @@ The aim of this project is to develop and integrate a tool that allows to record
 
 **Skills required:** Per idea
 
-**Possible mentors:** TBA
+**Possible mentors:** TBA (Colombia)
 
 **Difficulty:** Easy
 
@@ -93,7 +110,7 @@ After initial research, the data will be used to start the analysis of the requi
 
 **Skills required:** Per idea
 
-**Possible mentors:** TBA
+**Possible mentors:** TBA (Spain)
 
 **Difficulty:** Easy
 
@@ -108,7 +125,7 @@ Click maps show you an aggregate of where visitors click their mouse on desktop 
 
 **Skills required:** Per idea
 
-**Possible mentors:** TBA
+**Possible mentors:** TBA (Argentina)
 
 **Difficulty:** Easy
 
@@ -124,7 +141,7 @@ Move maps track where desktop users move their mouse as they navigate the page. 
 
 **Skills required:** Per idea
 
-**Possible mentors:** TBA
+**Possible mentors:** TBA (Brazil)
 
 **Difficulty:** Hard
 
@@ -140,7 +157,7 @@ The role of emotion as a component of user experience has been pointed out in th
 
 **Skills required:** Per idea
 
-**Possible mentors:** TBA
+**Possible mentors:** TBA (Brazil)
 
 **Difficulty:** Medium
 
@@ -163,32 +180,4 @@ It should be studied how it is actually done and how it could be introduced into
 
 ---
 
-### Virtual Reality UX (175h)
-***Keywords:** User Experience (UX), Remote Usability, Research.*
 
-New methods of user interaction raised in the past few years. Virtual Reality or VR is one of those who have grown during the last years. With the integration on the mobile systems it has grown in popularity and nowadays it is accessible for the main range of smartphone users.
-The study will be focused to analyze the current UX reports that are being done into VR system and how it could be introduced into a virtual LAB.
-
-**Expected outcome:** A tool to analyse VR systems UX
-
-**Skills required:** Per idea
-
-**Possible mentors:** TBA
-
-**Difficulty:** Medium
-
----
-
-### Augmented Reality UX (175h)
-***Keywords:** User Experience (UX), Remote Usability, Research.*
-
-New methods of user interaction raised in the past few years. Augmented Reality or AR is one of those who have grown during the last years. With the integration on the mobile systems it has grown in popularity and nowadays it is accessible for the main range of smartphone users.
-The study will be focused to analyze the current UX reports that are being done into AR system and how it could be introduced into a virtual LAB.
-
-**Expected outcome:** A tool to analyse AR systems UX
-
-**Skills required:** Per idea
-
-**Possible mentors:** TBA
-
-**Difficulty:** Medium
