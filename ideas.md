@@ -57,7 +57,7 @@ Tons of technologies are used to evaluate psychology emotions on the study of us
 
 **Expected outcome:** Development of a method to do sentimental analysis that can be integrated with the remote usability lab project.
 
-**Skills required:** Per idea
+**Skills required:** No special skills required
 
 **Possible mentors:** TBA (Brazil)
 
@@ -75,7 +75,7 @@ This work is focused to find new heuristics methods that can be applied to these
 
 **Expected outcome:** A project capable of analysing UX tests in VUI, VR and AR systems
 
-**Skills required:** Per idea
+**Skills required:** No special skills required
 
 **Possible mentors:** TBA (Spain)
 
@@ -91,7 +91,7 @@ The aim of this project is to develop and integrate a tool that allows to record
 
 **Expected outcome:** A tool capable of analysisng a website performance by using different heatmaps strategies
 
-**Skills required:** Per idea
+**Skills required:** No special skills required
 
 **Possible mentors:** TBA (Colombia)
 
@@ -108,7 +108,7 @@ After initial research, the data will be used to start the analysis of the requi
 
 **Expected outcome:** An implementation of a scroll map based on user interaction in a website
 
-**Skills required:** Per idea
+**Skills required:** No special skills required
 
 **Possible mentors:** TBA (Spain)
 
@@ -123,7 +123,7 @@ Click maps show you an aggregate of where visitors click their mouse on desktop 
 
 **Expected outcome:** An implementation of a click map based on user interaction in a website
 
-**Skills required:** Per idea
+**Skills required:** No special skills required
 
 **Possible mentors:** TBA (Argentina)
 
@@ -139,7 +139,7 @@ Move maps track where desktop users move their mouse as they navigate the page. 
 
 **Expected outcome:** A tool to create realtime move maps by tracking users' gaze direction
 
-**Skills required:** Per idea
+**Skills required:** No special skills required
 
 **Possible mentors:** TBA (Brazil)
 
@@ -155,7 +155,7 @@ The role of emotion as a component of user experience has been pointed out in th
 
 **Expected outcome:** A tool to create a usability test that analyses emotion of users, both verbal and nonverbal
 
-**Skills required:** Per idea
+**Skills required:** No special skills required
 
 **Possible mentors:** TBA (Brazil)
 
