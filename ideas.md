@@ -11,7 +11,9 @@ Usability testing LAB. fits with this premise and for these reasons it should be
 **Expected outcome:** Improvement and new features defined between mentor and collaborator on the remote usabillity lab project
 
 **Skills required:** Vuejs, Javascript, Firebase.
+
 **Possible mentors:**  TBA
+
 **Difficulty:** Medium
 
 ---
@@ -24,7 +26,9 @@ There are a number of methods for measuring eye movement. The most popular are o
 **Expected outcome:** Improvement on the web eye tracker project. Milestones defined by collaborator and mentor.
 
 **Skills required:** Vuejs, Python, Flask, TensorflowJS, SKLearn and Firebase
+
 **Possible mentors:** TBA
+
 **Difficulty:** Medium
 
 ---
@@ -37,7 +41,9 @@ Tons of technologies are used to evaluate psychology emotions on the study of us
 **Expected outcome:** Development of a method to do sentimental analysis that can be integrated with the remote usability lab project.
 
 **Skills required:** Per idea
+
 **Possible mentors:** TBA
+
 **Difficulty:** Hard
 
 ---
@@ -53,7 +59,9 @@ This work is focused to find new heuristics methods that can be applied to these
 **Expected outcome:** A project capable of analysing UX tests in VUI, VR and AR systems
 
 **Skills required:** Per idea
+
 **Possible mentors:** TBA
+
 **Difficulty:** Hard
 
 ---
@@ -67,7 +75,9 @@ The aim of this project is to develop and integrate a tool that allows to record
 **Expected outcome:** A tool capable of analysisng a website performance by using different heatmaps strategies
 
 **Skills required:** Per idea
+
 **Possible mentors:** TBA
+
 **Difficulty:** Easy
 
 ---
@@ -80,8 +90,11 @@ The aim of this project is to find and research similar tools that allow to crea
 After initial research, the data will be used to start the analysis of the requirements. Collected data will be used to start developing an own heat scroll map tool.
 
 **Expected outcome:** An implementation of a scroll map based on user interaction in a website
+
 **Skills required:** Per idea
+
 **Possible mentors:** TBA
+
 **Difficulty:** Easy
 
 ---
@@ -94,7 +107,9 @@ Click maps show you an aggregate of where visitors click their mouse on desktop 
 **Expected outcome:** An implementation of a click map based on user interaction in a website
 
 **Skills required:** Per idea
+
 **Possible mentors:** TBA
+
 **Difficulty:** Easy
 
 ---
@@ -108,7 +123,9 @@ Move maps track where desktop users move their mouse as they navigate the page. 
 **Expected outcome:** A tool to create realtime move maps by tracking users' gaze direction
 
 **Skills required:** Per idea
+
 **Possible mentors:** TBA
+
 **Difficulty:** Hard
 
 ---
@@ -122,7 +139,9 @@ The role of emotion as a component of user experience has been pointed out in th
 **Expected outcome:** A tool to create a usability test that analyses emotion of users, both verbal and nonverbal
 
 **Skills required:** Per idea
+
 **Possible mentors:** TBA
+
 **Difficulty:** Medium
 
 ---
@@ -137,7 +156,9 @@ It should be studied how it is actually done and how it could be introduced into
 **Expected outcome:** The scope of this project is to create and analyze new heuristics that could be addressed for future VUI.
 
 **Skills required:** Javascript
+
 **Possible mentors:** TBA
+
 **Difficulty:** Medium
 
 ---
@@ -151,7 +172,9 @@ The study will be focused to analyze the current UX reports that are being done 
 **Expected outcome:** A tool to analyse VR systems UX
 
 **Skills required:** Per idea
+
 **Possible mentors:** TBA
+
 **Difficulty:** Medium
 
 ---
@@ -163,6 +186,9 @@ New methods of user interaction raised in the past few years. Augmented Reality 
 The study will be focused to analyze the current UX reports that are being done into AR system and how it could be introduced into a virtual LAB.
 
 **Expected outcome:** A tool to analyse AR systems UX
+
 **Skills required:** Per idea
+
 **Possible mentors:** TBA
+
 **Difficulty:** Medium
