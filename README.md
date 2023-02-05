@@ -49,7 +49,10 @@ Your Proposal Document needs to have:
 
 ## Ideas page
 
-Check out our project's ideas on the [Ideas Page](/ideas.md), see if you find something that catches your attention. If you don't get interested in one of the proposals or has another idea that you want to make, validade it with one of the mentors before submitting your proposal.
+Check out our project's ideas on the [Ideas Page](/ideas2022.md), see if you find something that catches your attention. If you don't get interested in one of the proposals or has another idea that you want to make, validade it with one of the mentors before submitting your proposal. Check also our ideas list from previous years:
+
+* [2021](/ideas2021.md)
+* [2022](/ideas2022.md)
 
 
 #### We'll be waiting for you, Good Luck!!! :D
