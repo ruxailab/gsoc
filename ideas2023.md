@@ -1,6 +1,6 @@
-# GSoC 2022 Ideas for Uramaki Lab
+# GSoC 2023 Ideas for Uramaki Lab
 
-All the current ideas for GSoC2022 are listed bellow:
+All the current ideas for GSoC2023 are listed bellow:
 
 
 
