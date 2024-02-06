@@ -1,14 +1,12 @@
 # GSOC-2024
 
-![RUXAILAB](/uramaki-logo.png)
-
 For a long time, the evaluation of user interfaces by user testing techniques, has been one of the most successful ways to getfeedback from the users. HCI experts usually perform their experimental evaluations sessions in usability labs, indoor facilities with equiped with expensive and not available devices for everybody like eye-tracking devices or multi-rooms with specialised software. 
 
-The main goal of UramakiLAB is create a set of open source toolchains that helps to perform usability tests in a remote environment. Our core is a system that allows to do remote heuristic tests and share the studies to other participants, creating at the same time a social network of developers who wants to get in touch with the studies of their collegues. On 2022 we expect to keep up the development of eye tracking systems, improvement of our remote usability test platform and also work with virtual and augmented reality projects.
+The main goal of RUXAILAB is create a set of open source toolchains that helps to perform usability tests in a remote environment based on Artificial Intelligence. Our core is a system that allows to do remote heuristic tests and share the studies to other participants, creating at the same time a social network of developers who wants to get in touch with the studies of their collegues. On 2024 we expect to keep up the development of eye tracking systems, improvement of our remote usability test platform and also work with virtual and augmented reality projects all of them with the use os AI.
 
 ## Before the application
 
-Before applying directly to Google Summer of Code Dashboard we recommend you to get in touch with our community. Join our [Discord](https://discord.gg/Hb3mTPcVjS), introduce yourself, ask questions about the projects, get in touch with mentors and learn how you can start contributing to the Uramaki LAB project. If you don't have a discord or prefer to send an e-mail you can contact us at `uramakilab@gmail.com`. 
+Before applying directly to Google Summer of Code Dashboard we recommend you to get in touch with our community. Join our [Discussion](https://github.com/ruxailab/RUXAILAB/discussions), introduce yourself, ask questions about the projects, get in touch with mentors and learn how you can start contributing to the Uramaki LAB project. If you don't have a discord or prefer to send an e-mail you can contact us at `ruxailab@gmail.com`. 
 
 In our organization we value the people who are pro active, hardworking and that sees always the big picture, thinking about how their work can contribute to the community and to the open source world, thus it is a good idea to start colaborating with us early so we can get to know you better.
 
@@ -49,10 +47,13 @@ Your Proposal Document needs to have:
 
 ## Ideas page
 
-Check out our project's ideas on the [Ideas Page](/ideas2022.md), see if you find something that catches your attention. If you don't get interested in one of the proposals or has another idea that you want to make, validade it with one of the mentors before submitting your proposal. Check also our ideas list from previous years:
+Check out our project's ideas on the [Ideas Page](/ideas2024.md), see if you find something that catches your attention. If you don't get interested in one of the proposals or has another idea that you want to make, validade it with one of the mentors before submitting your proposal. Check also our ideas list from previous years:
 
 * [2021](/ideas2021.md)
 * [2022](/ideas2022.md)
+* [2023](/ideas2023.md)
+* [2024](/ideas2024.md)
+
 
 
 #### We'll be waiting for you, Good Luck!!! :D
