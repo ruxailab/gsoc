@@ -33,10 +33,11 @@ This project focuses on integrating eye tracking technology with accessibility f
 **Skills Required:** Javascript, Accessibility  
 **Possible Mentors:** Marc  
 **Difficulty:** Easy
+
 ---
 
 ### Integration of heat maps into Remote Usability LAB. (175h)
-Heat map is an umbrella term for different heat mapping tools: scroll maps, click maps, and move maps. Knowing the difference is handy, as each type helps you investigate a slightly different aspect of your website performance.
+Heat map is an umbrella term for different heat mapping tools scroll maps, click maps, and move maps. Knowing the difference is handy, as each type helps you investigate a slightly different aspect of your website performance.
 The aim of this project is to develop and integrate a tool that allows to record the different heat maps inside.
 
 **Keywords:** Artificial Intelligence (AI), Remote Usability Testing, Development.
