@@ -1,6 +1,6 @@
-# GSOC-2022
+# GSOC-2024
 
-![uramaki-lab](/uramaki-logo.png)
+![RUXAILAB](/uramaki-logo.png)
 
 For a long time, the evaluation of user interfaces by user testing techniques, has been one of the most successful ways to getfeedback from the users. HCI experts usually perform their experimental evaluations sessions in usability labs, indoor facilities with equiped with expensive and not available devices for everybody like eye-tracking devices or multi-rooms with specialised software. 
 
