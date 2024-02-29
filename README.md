@@ -1,6 +1,6 @@
 # GSOC-2024
 
-For a long time, the evaluation of user interfaces by user testing techniques has been one of the most successful ways to get feedback from users. HCI experts usually perform their experimental evaluation sessions in usability labs, indoor facilities with equipped with expensive and not available devices for everybody like eye-tracking devices or multi-rooms with specialized software.
+For a long time, the evaluation of user interfaces by user testing techniques, has been one of the most successful ways to get feedback from the users. HCI experts usually perform their experimental evaluations sessions in usability labs, indoor facilities with equiped with expensive and not available devices for everybody like eye-tracking devices or multi-rooms with specialised software.
 
 The main goal of RUXAILAB is to create a set of open-source toolchains that helps to perform usability tests in a remote environment based on Artificial Intelligence. Our core is a system that allows to do remote heuristic tests and share the studies to other participants, creating at the same time a social network of developers who wants to get in touch with the studies of their colleagues. In 2024 we expect to keep up the development of eye tracking systems, improve our remote usability test platform, and also work with virtual and augmented reality projects all of them with the use of AI.
 
