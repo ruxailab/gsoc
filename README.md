@@ -41,7 +41,7 @@ Your Proposal Document needs to have:
 - Deliverables
 - Schedule
 
-**IMPORTANT**: Don't forget to register at: [https://summerofcode.withgoogle.com/](https://summerofcode.withgoogle.com/). Proposals will be reviewed only AFTER you submit the proposal and your registration to Google Summer of Code 2022.
+**IMPORTANT**: Don't forget to register at: [https://summerofcode.withgoogle.com/](https://summerofcode.withgoogle.com/). Proposals will be reviewed only AFTER you submit the proposal and your registration to Google Summer of Code 2024.
 
 ## Ideas page
 
