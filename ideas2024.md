@@ -2,9 +2,10 @@
 
 All the current ideas for GSoC2024 are listed bellow:
 
-
 ### Eye Tracking Algorithm Optimization (350h)
 This project focuses on optimizing existing eye tracking algorithms to improve their efficiency and accuracy. The optimization will involve exploring new approaches, fine-tuning parameters, and implementing enhancements using Javascript for the front-end. The goal is to create a more robust and responsive eye tracking system that can be seamlessly integrated into various applications.
+
+We would like that the eye tracking algorithm develop works on real time. We want it to be integrated with RUXAILAB project to perform usability tests.
 
 **Keywords:** Artificial Intelligence (AI), Algorithm Optimization, Eye Tracking, Javascript, Front-end  
 **Expected Outcome:** Optimized eye tracking algorithms with improved efficiency and accuracy  
@@ -14,25 +15,26 @@ This project focuses on optimizing existing eye tracking algorithms to improve t
 
 ---
 
-### Eye Tracking Data Visualization Tool (175h)
-This project aims to develop a user-friendly data visualization tool for eye tracking data. The tool will allow users to interpret and analyze eye movement patterns with ease. Using Javascript for the front-end, the project will create interactive visualizations that provide valuable insights into user attention and focus. The tool will enhance the usability of eye tracking data for researchers and practitioners.
 
-**Keywords:** Data Visualization, Eye Tracking, Front-end, Javascript  
+### ~~Eye Tracking Data Visualization Tool (175h)~~
+~~This project aims to develop a user-friendly data visualization tool for eye tracking data. The tool will allow users to interpret and analyze eye movement patterns with ease. Using Javascript for the front-end, the project will create interactive visualizations that provide valuable insights into user attention and focus. The tool will enhance the usability of eye tracking data for researchers and practitioners.~~
+
+~~**Keywords:** Data Visualization, Eye Tracking, Front-end, Javascript  
 **Expected Outcome:** Eye tracking data visualization tool with interactive features  
 **Skills Required:** Javascript, Data Visualization  
 **Possible Mentors:** Marc  
-**Difficulty:** Medium
+**Difficulty:** Medium~~
 
 ---
 
-### Integration of Eye Tracking with Accessibility Features (90h)
-This project focuses on integrating eye tracking technology with accessibility features to enhance the user experience for individuals with disabilities. The development will involve creating adaptive interfaces that respond to eye movements, providing an alternative input method for those who cannot use traditional controls. Javascript will be used to implement these features, ensuring compatibility with various web applications.
+### ~~Integration of Eye Tracking with Accessibility Features (90h)~~
+~~This project focuses on integrating eye tracking technology with accessibility features to enhance the user experience for individuals with disabilities. The development will involve creating adaptive interfaces that respond to eye movements, providing an alternative input method for those who cannot use traditional controls. Javascript will be used to implement these features, ensuring compatibility with various web applications.~~
 
-**Keywords:** Accessibility, Eye Tracking, Front-end, Javascript  
+~~**Keywords:** Accessibility, Eye Tracking, Front-end, Javascript  
 **Expected Outcome:** Integration of eye tracking with accessibility features, improving usability for individuals with disabilities  
 **Skills Required:** Javascript, Accessibility  
 **Possible Mentors:** Marc  
-**Difficulty:** Easy
+**Difficulty:** Easy~~
 
 ---
 
@@ -59,12 +61,22 @@ This project aims to develop tools and algorithms for extracting data from moder
 
 ---
 
-### Sentiment Analysis Data Extraction from Usability Tests (350h)
-This project focuses on developing methods and tools for extracting sentiment-related data from both moderated and unmoderated usability tests. By employing Natural Language Processing (NLP) techniques, the project aims to analyze user feedback collected during usability testing sessions and extract valuable sentiment insights. The outcome will provide researchers and practitioners with a deeper understanding of user sentiments towards the tested products or interfaces.
+### Implementation of Card Sorting method on RUXAILAB (175h)
 
-**Keywords:** Sentiment Analysis, Usability Testing, Data Extraction, Natural Language Processing (NLP)
-**Expected Outcome:** Development of tools and algorithms for extracting sentiment data from moderated and unmoderated usability tests.
-**Skills Required:** Natural Language Processing (NLP), Data Extraction, Sentiment Analysis.
-**Possible Mentors:** Karine
-**Difficulty:** Medium
+**Description:**
+This project aims to implement a novel usability analysis method based on card sorting, a research technique involving the categorization and organization of information through user collaboration. Card sorting allows understanding how users group related information and concepts, providing valuable insights for designing more intuitive and effective interfaces.
+
+**Keywords:**
+Usability, Card Sorting, Interface Design, User Experience, User Research, Usability Analysis.
+
+**Expected Outcome:**
+- Development and implementation of a card sorting process tailored to the project's specific needs.
+- Collection and analysis of data resulting from the card sorting sessions.
+- Detailed report of the obtained results, including insights into identified grouping patterns, recommendations for design improvements, and suggestions for optimizing user experience.
+
+**Skills Required:**
+- Proficiency in interface design and user experience.
+- Familiarity with user research methods, particularly card sorting.
+- Ability to analyze qualitative data.
+- Strong communication and writing skills to document and present the project's results.
 
