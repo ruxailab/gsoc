@@ -6,7 +6,8 @@ The main goal of RUXAILAB is to create a set of open-source toolchains that help
 
 ## Before the application
 
-Before applying directly to Google Summer of Code Dashboard we recommend you to get in touch with our community. Join our [Discussion](https://github.com/ruxailab/RUXAILAB/discussions), introduce yourself, ask questions about the projects, get in touch with mentors, and learn how you can start contributing to the Uramaki LAB project. If you don't have a discord or prefer to send an e-mail you can contact us at `ruxailab@gmail.com`.
+Before applying directly to Google Summer of Code Dashboard we recommend you to get in touch with our community. Join our [Discussion](https://github.com/ruxailab/RUXAILAB/discussions) and [Discord] 
+(https://discord.gg/YnkDk9BNYK), introduce yourself, ask questions about the projects, get in touch with mentors, and learn how you can start contributing to the Uramaki LAB project. If you don't have a discord or prefer to send an e-mail you can contact us at `ruxailab@gmail.com`.
 
 In our organization, we value people who are proactive, hardworking and that sees always the big picture, thinking about how their work can contribute to the community and to the open source world, thus it is a good idea to start collaborating with us early so we can get to know you better.
 
