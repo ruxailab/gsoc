@@ -41,15 +41,16 @@ Your Proposal Document needs to have:
 - Deliverables
 - Schedule
 
-**IMPORTANT**: Don't forget to register at: [https://summerofcode.withgoogle.com/](https://summerofcode.withgoogle.com/). Proposals will be reviewed only AFTER you submit the proposal and your registration to Google Summer of Code 2022.
+**IMPORTANT**: Don't forget to register at: [https://summerofcode.withgoogle.com/](https://summerofcode.withgoogle.com/). Proposals will be reviewed only AFTER you submit the proposal and your registration to Google Summer of Code 2025.
 
 ## Ideas page
 
-Check out our project's ideas on the [Ideas Page](/ideas2024.md), and see if you find something that catches your attention. If you don't get interested in one of the proposals or have another idea that you want to make, validate it with one of the mentors before submitting your proposal. Check also our ideas list from previous years:
+Check out our project's ideas on the [Ideas Page](/ideas2025.md), and see if you find something that catches your attention. If you don't get interested in one of the proposals or have another idea that you want to make, validate it with one of the mentors before submitting your proposal. Check also our ideas list from previous years:
 
 - [2021](/ideas2021.md)
 - [2022](/ideas2022.md)
 - [2023](/ideas2023.md)
 - [2024](/ideas2024.md)
+- [2025](/ideas2025.md)
 
 #### We'll be waiting for you, Good Luck!!! :D
