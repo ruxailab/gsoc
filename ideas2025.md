@@ -54,3 +54,21 @@ This project aims to **integrate GitHub Actions with Discord** to automate **rol
 **Mentor:** Leticia  
 **Difficulty:** Easy
 
+---
+
+### Integration of User Testing into RUXAILAB with Eye Tracking, Sentiment Analysis and Pre-Post Form Tasks (350h)  
+This project aims to **integrate advanced user testing capabilities into RUXAILAB**, incorporating **eye tracking, sentiment analysis, and structured pre/post-test forms**. By combining these elements, the system will provide **a comprehensive framework for usability testing**, offering insights into user behavior, emotional response, and engagement levels.  
+
+**Key Features:**  
+- **Eye Tracking Integration:** Analyze user gaze patterns to identify usability issues and areas of focus  
+- **Sentiment Analysis:** Utilize AI-driven sentiment detection to assess user emotions during interactions  
+- **Pre and Post-Test Forms:** Structured questionnaires to collect user expectations and post-experience feedback  
+- **Automated Data Analysis:** Generate real-time reports with actionable insights for improving usability  
+- **Seamless RUXAILAB Integration:** Ensure compatibility with existing usability testing workflows  
+
+**Keywords:** User Testing, Eye Tracking, Sentiment Analysis, AI, Usability Testing  
+**Expected Outcome:** A **fully integrated user testing framework** that enhances RUXAILAB by **capturing and analyzing user behavior, emotional responses, and structured feedback**  
+**Skills Required:** Python, JavaScript, AI/ML for Sentiment Analysis, Eye Tracking APIs  
+**Mentor:** Marc  
+**Difficulty:** Hard
+
