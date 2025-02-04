@@ -69,6 +69,6 @@ This project aims to **integrate advanced user testing capabilities into RUXAILA
 **Keywords:** User Testing, Eye Tracking, Sentiment Analysis, AI, Usability Testing  
 **Expected Outcome:** A **fully integrated user testing framework** that enhances RUXAILAB by **capturing and analyzing user behavior, emotional responses, and structured feedback**  
 **Skills Required:** Python, JavaScript, AI/ML for Sentiment Analysis, Eye Tracking APIs  
-**Mentor:** Marc  
+**Mentor:** Marc and Karine
 **Difficulty:** Hard
 
