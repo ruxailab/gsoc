@@ -37,24 +37,6 @@ All the current ideas for GSoC2025 are listed bellow:
   **Skills Required:** Python, JavaScript, AI/ML for Sentiment Analysis, Eye Tracking APIs  
   **Mentor:** Marc and Karine
   **Difficulty:** Hard
-  
-  ---
-  
-  ### Integration of User Testing into RUXAILAB with Eye Tracking and Sentiment Analysis (350h)  
-  This project aims to **integrate advanced user testing capabilities into RUXAILAB**, incorporating **eye tracking, sentiment analysis, and structured pre/post-test forms**. By combining these elements, the system will provide **a comprehensive framework for usability testing**, offering insights into user behavior, emotional response, and engagement levels.  
-  
-  **Key Features:**  
-  - **Eye Tracking Integration:** Analyze user gaze patterns to identify usability issues and areas of focus  
-  - **Sentiment Analysis:** Utilize AI-driven sentiment detection to assess user emotions during interactions  
-  - **Pre and Post-Test Forms:** Structured questionnaires to collect user expectations and post-experience feedback  
-  - **Automated Data Analysis:** Generate real-time reports with actionable insights for improving usability  
-  - **Seamless RUXAILAB Integration:** Ensure compatibility with existing usability testing workflows  
-  
-  **Keywords:** User Testing, Eye Tracking, Sentiment Analysis, AI, Usability Testing  
-  **Expected Outcome:** A **fully integrated user testing framework** that enhances RUXAILAB by **capturing and analyzing user behavior, emotional responses, and structured feedback**  
-  **Skills Required:** Python, JavaScript, AI/ML for Sentiment Analysis, Eye Tracking APIs  
-  **Mentor:** Marc  
-  **Difficulty:** Hard  
 
 
 ## Medium size projects (~175h)
@@ -111,6 +93,25 @@ This project aims to **create a transcription service** designed to streamline *
 **Skills Required:** Python, NLP, Speech-to-Text APIs, Front-End Development  
 **Mentor:** Anna  
 **Difficulty:** Medium
+
+-----
+
+### Implementation of A/B Testing Capability in RUXAILAB (175h)  
+This project focuses on **implementing A/B testing functionality within RUXAILAB** to enhance usability evaluation and data-driven decision-making. The goal is to provide an integrated system for running **controlled experiments**, comparing different UI designs, and gathering insights on user preferences.  
+
+**Key Features:**  
+- **Automated A/B Test Setup:** Allow testers to configure and manage A/B tests within RUXAILAB  
+- **Real-Time Performance Tracking:** Collect user interaction data for different variations  
+- **Statistical Analysis Module:** Provide insights on test results using key performance indicators  
+- **User Segmentation:** Enable tests based on demographic, behavior, or experience level  
+- **Seamless UI Integration:** Ensure compatibility with existing usability testing workflows  
+
+**Keywords:** A/B Testing, User Experience, Usability Testing, Data Analysis, Front-End Development  
+**Expected Outcome:** A **fully integrated A/B testing module** that allows usability researchers to conduct controlled experiments and make data-driven design decisions in RUXAILAB  
+**Skills Required:** JavaScript, Python, Data Analysis, UI/UX Testing  
+**Mentor:** Marc  
+**Difficulty:** Medium
+
 
 ## Small size projects (~90h)
 
