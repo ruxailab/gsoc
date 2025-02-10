@@ -109,7 +109,7 @@ This project focuses on **implementing A/B testing functionality within RUXAILAB
 **Keywords:** A/B Testing, User Experience, Usability Testing, Data Analysis, Front-End Development  
 **Expected Outcome:** A **fully integrated A/B testing module** that allows usability researchers to conduct controlled experiments and make data-driven design decisions in RUXAILAB  
 **Skills Required:** JavaScript, Python, Data Analysis, UI/UX Testing  
-**Mentor:** Marc  
+**Mentor:** Igor  
 **Difficulty:** Medium
 
 
