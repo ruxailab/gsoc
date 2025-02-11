@@ -152,3 +152,20 @@ This project focuses on **automating the creation of GitHub issues based on Sona
 
 ---
 
+### Enhancing Playwright Testing in RUXAILAB (90h)  
+This project aims to **refine and optimize Playwright-based automated testing** in RUXAILAB, improving test efficiency and documentation to enhance maintainability and ease of use. The focus will be on **ensuring robust test coverage, optimizing test workflows, and developing comprehensive documentation** to support contributors.  
+
+**Key Features:**  
+- **Improving Test Maintainability:** Refactor test scripts for better reusability and efficiency  
+- **Cross-Browser and Device Compatibility:** Ensure consistent behavior across different browsers and devices  
+- **Accessibility Testing Enhancements:** Strengthen WCAG compliance validation for UI components  
+- **Comprehensive Documentation:** Develop detailed guides on test creation, execution, and maintenance  
+- **Integration with CI/CD Pipelines:** Enhance GitHub Actions workflows for streamlined automated testing  
+
+**Keywords:** Playwright, Automated Testing, UI Testing, Accessibility, Documentation  
+**Expected Outcome:** A **more maintainable and well-documented Playwright testing framework**, ensuring long-term usability and ease of contribution in RUXAILAB  
+**Skills Required:** JavaScript, Playwright, Automated Testing, CI/CD, GitHub Actions, Technical Writing  
+**Mentor:** Eric  
+**Difficulty:** Easy
+
+
