@@ -4,6 +4,25 @@ All the current ideas for GSoC2025 are listed bellow:
 
 ## Big size projects (~350h)
 
+  ### AI-Powered Accessibility Evaluation in RUXAILAB (350h)  
+  This project aims to **develop a comprehensive AI-powered accessibility evaluation system** within RUXAILAB, focusing on **automating and enhancing WCAG compliance testing**. By integrating **artificial intelligence with semi-automated evaluation techniques**, this system will assist developers and usability experts in identifying and addressing accessibility barriers in digital content, including **websites, documents, and mobile applications**. The system will provide **detailed, multi-dimensional reports**, offering both **quantitative compliance scores** and **qualitative insights** in plain language.  
+  
+  **Key Features:**  
+  - **Automated WCAG Compliance Testing:** Utilize **AI-enhanced evaluation tools** and integrate existing APIs (e.g., [WAVE API](https://wave.webaim.org/api/)) to generate **automated accessibility assessments**.  
+  - **AI-Powered Accessibility Insights:** Implement **machine learning models** to **detect complex accessibility issues** that may not be captured by traditional automated tools, such as **color contrast issues, ARIA misconfigurations, and screen reader compatibility problems**.  
+  - **Data Integration and Analysis:** Merge results from **automated tools and AI-generated insights**, creating a **comprehensive accessibility evaluation framework**.  
+  - **Semi-Automated Expert Evaluation:** Enable expert evaluators to **refine AI-generated reports**, ensuring **higher evaluation accuracy and adaptability**.  
+  - **Quantitative Compliance Scoring:** Establish a **numerical accessibility index** based on **WCAG success criteria**, enabling users to **track and compare** improvements over time.  
+  - **Natural Language Summaries:** Use **AI-driven text generation** to translate technical accessibility reports into **readable, actionable insights** for designers, developers, and content creators.  
+  - **Continuous Learning Mechanism:** Implement an AI model that **improves over time** by learning from expert evaluations and new accessibility guidelines.  
+  
+  **Keywords:** Artificial Intelligence (AI), Accessibility Testing, WCAG Compliance, Data Analysis, Machine Learning, Usability Evaluation  
+  **Expected Outcome:** A **fully integrated AI-driven accessibility evaluation system** that enhances and automates **WCAG compliance testing**, making accessibility validation more efficient and insightful within RUXAILAB.  
+  **Skills Required:** Python, JavaScript, AI for Data Analysis, Machine Learning, Accessibility Standards (WCAG), NLP for Report Generation  
+  **Mentor:** Marc  
+  **Difficulty:** Hard
+
+
   ### Integration of Heat Maps into Remote Usability LAB (350h)  
   Heat maps encompass a variety of tracking tools, including **scroll maps, click maps, and move maps**, each providing distinct insights into user behavior. This project aims to **develop and integrate a comprehensive heatmap recording tool** for usability testing inside the **RUXAILAB** framework. The system will optimize **mouse tracking** and generate detailed reports on user interactions.  
   
