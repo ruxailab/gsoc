@@ -22,6 +22,22 @@ All the current ideas for GSoC2025 are listed bellow:
   **Mentor:** Marc  
   **Difficulty:** Hard
 
+  ### AI Tool for Heuristic Evaluation (350h)  
+  This project aims to **develop an AI-based heuristic evaluation tool** capable of **automatically assessing usability issues** in digital interfaces, mimicking the analysis of an **expert usability evaluator**. The system will apply **well-established usability heuristics**, such as **Nielsen’s Heuristics**, to evaluate web pages and **identify usability problems** based on structured guidelines. The tool will generate **detailed reports** with **quantitative scores** and **qualitative insights**, helping designers and developers improve their interfaces.  
+  
+  **Key Features:**  
+  - **Automated Heuristic Evaluation:** Utilize AI to systematically **analyze web pages** based on usability heuristics.  
+  - **Expert-Level Analysis:** Develop machine learning models trained on usability best practices to **identify common usability problems** such as **poor feedback, inconsistent navigation, and inefficient workflows**.  
+  - **Multi-Dimensional Reporting:** Generate both **quantitative usability scores** and **qualitative insights** that explain detected usability issues similarly as RUXAILAB is doing right now.  
+  - **Continuous Learning Mechanism:** Enhance evaluation accuracy by refining AI models based on **expert reviews and user feedback**.  
+  - **Integration with RUXAILAB:** Seamlessly integrate with the existing usability evaluation tools within RUXAILAB.  
+  
+  **Keywords:** Artificial Intelligence (AI), Usability Testing, Heuristic Evaluation, Data Analysis, Machine Learning, UI/UX Optimization  
+  **Expected Outcome:** A **fully automated heuristic evaluation tool** that functions as an **AI-based usability expert**, identifying and reporting usability issues based on standard heuristic guidelines.  
+  **Skills Required:** Python, JavaScript, NLP for Report Generation  
+  **Mentor:** Marc González  
+  **Difficulty:** Hard
+
 
   ### Integration of Heat Maps into Remote Usability LAB (350h)  
   Heat maps encompass a variety of tracking tools, including **scroll maps, click maps, and move maps**, each providing distinct insights into user behavior. This project aims to **develop and integrate a comprehensive heatmap recording tool** for usability testing inside the **RUXAILAB** framework. The system will optimize **mouse tracking** and generate detailed reports on user interactions.  
