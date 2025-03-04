@@ -1,4 +1,4 @@
-# GSoC 2025 Ideas for RUXAILAB (yes, we have updated our name after paper publications)
+# GSoC 2025 Ideas for RUXAILAB
 
 All the current ideas for GSoC2025 are listed bellow:
 
