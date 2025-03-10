@@ -77,17 +77,16 @@ All the current ideas for GSoC2025 are listed bellow:
 ## Medium size projects (~175h)
 
 ### UI Layout Optimization for RUXAILAB (175h)  
-This project aims to redesign the **RUXAILAB user interface (UI)** to improve **usability, accessibility, and responsiveness**. The new design will incorporate **AI-driven layout suggestions**, **heatmaps**, and **real-time usability tracking** to create a **more intuitive and efficient experience** for users.  
+This project aims to redesign the **RUXAILAB user interface (UI)** to improve **usability, accessibility, and responsiveness**. 
 
 **Key Improvements:**  
 - **Simplified Navigation:** Improved menu structure for seamless interaction  
 - **Responsive Design:** Optimized for mobile, tablet, and desktop  
 - **Accessibility Features:** WCAG-compliant color contrast, keyboard navigation, screen reader support  
-- **Data-Driven UI Optimization:** AI-powered layout recommendations based on real-time user interactions  
 - **Dark Mode & Custom Themes:** Enhancing user comfort for different environments  
 
-**Keywords:** UI/UX Design, Accessibility, Front-end Development, AI, Usability Testing  
-**Expected Outcome:** A fully **redesigned and accessible RUXAILAB interface** with **real-time usability tracking**  
+**Keywords:** UI/UX Design, Accessibility, Front-end Development, , Usability Testing  
+**Expected Outcome:** A fully **redesigned and accessible RUXAILAB interface**
 **Skills Required:** JavaScript, Vue.js, CSS, Figma, AI for UI Optimization  
 **Mentor:** Leticia  
 **Difficulty:** Medium
