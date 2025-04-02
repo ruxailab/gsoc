@@ -54,3 +54,17 @@ Check out our project's ideas on the [Ideas Page](/ideas2025.md), and see if you
 - [2025](/ideas2025.md)
 
 #### We'll be waiting for you, Good Luck!!! :D
+Mentor Contact Information
+Mentor Name: [Mentor's Full Name]
+
+GitHub/Profile: [Mentor's GitHub or Organization Profile]
+
+Email: [Mentor's Email]
+
+Organization: RUXAILAB
+
+Role: Mentor
+
+IRC/Slack/Discord: [Communication Channel & Username]
+
+Time Zone: [Mentor's Time Zone]
