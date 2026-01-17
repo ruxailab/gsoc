@@ -1,0 +1,268 @@
+{
+  "projects": [
+    {
+      "year": 2026,
+      "title": "AI Tool for Heuristic Evaluation",
+      "size": "big",
+      "hours": 350,
+      "description": "Develop an AI-based heuristic evaluation tool capable of automatically assessing usability issues in digital interfaces, mimicking the analysis of an expert usability evaluator.",
+      "keywords": ["Artificial Intelligence (AI)", "Usability Testing", "Heuristic Evaluation", "Data Analysis", "Machine Learning", "UI/UX Optimization"],
+      "skills": ["Python", "JavaScript", "NLP for Report Generation"],
+      "mentor": "Marc",
+      "difficulty": "Hard"
+    },
+    {
+      "year": 2026,
+      "title": "AI-Driven NLP Engine for Usability Test Results Analysis",
+      "size": "big",
+      "hours": 350,
+      "description": "Design and implement an NLP-based analysis engine that automatically processes qualitative usability test data, including open-ended answers, task observations, moderator notes, and transcripts.",
+      "keywords": ["NLP", "Usability Testing", "Qualitative Analysis", "Explainable AI", "UX Research"],
+      "skills": ["Python", "NLP (spaCy / transformers)", "Data Analysis"],
+      "mentor": "Marc",
+      "difficulty": "Hard"
+    },
+    {
+      "year": 2026,
+      "title": "Unified Logging and Traceability System for Usability Studies",
+      "size": "medium",
+      "hours": 175,
+      "description": "Implement a structured logging and traceability system that records all relevant events during a usability study lifecycle.",
+      "keywords": ["Study Lifecycle Logging", "Multi-Layer Logs", "Research Traceability"],
+      "skills": ["Python", "JavaScript", "Database Management"],
+      "mentor": "TBA",
+      "difficulty": "Medium"
+    },
+    {
+      "year": 2025,
+      "title": "AI-Powered Accessibility Evaluation in RUXAILAB",
+      "size": "big",
+      "hours": 350,
+      "description": "Develop a comprehensive AI-powered accessibility evaluation system within RUXAILAB, focusing on automating and enhancing WCAG compliance testing.",
+      "keywords": ["Artificial Intelligence (AI)", "Accessibility Testing", "WCAG Compliance", "Data Analysis", "Machine Learning", "Usability Evaluation"],
+      "skills": ["Python", "JavaScript", "AI for Data Analysis", "Machine Learning", "Accessibility Standards (WCAG)", "NLP for Report Generation"],
+      "mentor": "Marc",
+      "difficulty": "Hard"
+    },
+    {
+      "year": 2025,
+      "title": "AI Tool for Heuristic Evaluation",
+      "size": "big",
+      "hours": 350,
+      "description": "Develop an AI-based heuristic evaluation tool capable of automatically assessing usability issues in digital interfaces, mimicking the analysis of an expert usability evaluator.",
+      "keywords": ["Artificial Intelligence (AI)", "Usability Testing", "Heuristic Evaluation", "Data Analysis", "Machine Learning", "UI/UX Optimization"],
+      "skills": ["Python", "JavaScript", "NLP for Report Generation"],
+      "mentor": "Marc",
+      "difficulty": "Hard"
+    },
+    {
+      "year": 2025,
+      "title": "Integration of Heat Maps into Remote Usability LAB",
+      "size": "big",
+      "hours": 350,
+      "description": "Develop and integrate a comprehensive heatmap recording tool for usability testing inside the RUXAILAB framework, including scroll maps, click maps, and move maps.",
+      "keywords": ["Artificial Intelligence (AI)", "Algorithm Optimization", "JavaScript", "Usability Testing", "Front-end Development"],
+      "skills": ["Python", "JavaScript", "AI for Data Analysis"],
+      "mentor": "Murilo",
+      "difficulty": "Hard"
+    },
+    {
+      "year": 2025,
+      "title": "Integration of User Testing into RUXAILAB with Eye Tracking, Sentiment Analysis and Pre-Post Form Tasks",
+      "size": "big",
+      "hours": 350,
+      "description": "Integrate advanced user testing capabilities into RUXAILAB, incorporating eye tracking, sentiment analysis, and structured pre/post-test forms.",
+      "keywords": ["User Testing", "Eye Tracking", "Sentiment Analysis", "AI", "Usability Testing"],
+      "skills": ["Python", "JavaScript", "AI/ML for Sentiment Analysis", "Eye Tracking APIs"],
+      "mentor": "Marc and Karine",
+      "difficulty": "Hard"
+    },
+    {
+      "year": 2025,
+      "title": "UI Layout Optimization for RUXAILAB",
+      "size": "medium",
+      "hours": 175,
+      "description": "Redesign the RUXAILAB user interface (UI) to improve usability, accessibility, and responsiveness.",
+      "keywords": ["UI/UX Design", "Accessibility", "Front-end Development", "Usability Testing"],
+      "skills": ["JavaScript", "Vue.js", "CSS", "Figma", "AI for UI Optimization"],
+      "mentor": "Leticia",
+      "difficulty": "Medium"
+    },
+    {
+      "year": 2025,
+      "title": "Comparative Analysis and Fine-Tuning of Sentiment Models for Improved System Integration",
+      "size": "medium",
+      "hours": 175,
+      "description": "Compare and fine-tune sentiment analysis models to enhance integration efficiency and scalability within RUXAILAB.",
+      "keywords": ["Sentiment Analysis", "Machine Learning", "Model Optimization", "System Integration"],
+      "skills": ["Python", "Machine Learning", "NLP"],
+      "mentor": "TBA",
+      "difficulty": "Medium"
+    },
+    {
+      "year": 2024,
+      "title": "Eye Tracking Algorithm Optimization",
+      "size": "big",
+      "hours": 350,
+      "description": "Optimize existing eye tracking algorithms to improve their efficiency and accuracy, with real-time capabilities integrated with RUXAILAB project.",
+      "keywords": ["Artificial Intelligence (AI)", "Algorithm Optimization", "Eye Tracking", "Javascript", "Front-end"],
+      "skills": ["Javascript", "Algorithm Optimization"],
+      "mentor": "Vinicius",
+      "difficulty": "Hard"
+    },
+    {
+      "year": 2024,
+      "title": "Integration of heat maps into Remote Usability LAB",
+      "size": "medium",
+      "hours": 175,
+      "description": "Develop and integrate a tool that allows to record different heat maps including scroll maps, click maps, and move maps.",
+      "keywords": ["Artificial Intelligence (AI)", "Remote Usability Testing", "Development"],
+      "skills": ["JavaScript", "Front-end Development"],
+      "mentor": "Karine",
+      "difficulty": "Easy"
+    },
+    {
+      "year": 2024,
+      "title": "Data Extraction for Sentiment Analysis from Usability Tests",
+      "size": "big",
+      "hours": 350,
+      "description": "Develop tools and algorithms for extracting data from moderated and unmoderated usability tests specifically for sentiment analysis purposes using NLP techniques.",
+      "keywords": ["Sentiment Analysis", "Usability Testing", "Data Extraction", "Natural Language Processing (NLP)"],
+      "skills": ["Natural Language Processing (NLP)", "Data Extraction", "Sentiment Analysis"],
+      "mentor": "Vinicius",
+      "difficulty": "Hard"
+    },
+    {
+      "year": 2024,
+      "title": "Implementation of Card Sorting method on RUXAILAB",
+      "size": "medium",
+      "hours": 175,
+      "description": "Implement a novel usability analysis method based on card sorting, a research technique involving the categorization and organization of information through user collaboration.",
+      "keywords": ["Usability", "Card Sorting", "Interface Design", "User Experience", "User Research", "Usability Analysis"],
+      "skills": ["Interface Design", "User Experience", "User Research", "Qualitative Data Analysis"],
+      "mentor": "TBA",
+      "difficulty": "Medium"
+    },
+    {
+      "year": 2023,
+      "title": "Refactor User Testing workflow and layout",
+      "size": "big",
+      "hours": 350,
+      "description": "Development of a set of tools that will provide the foundations of an open source community that helps to develop the future of the usability LABs in remote environments.",
+      "keywords": ["Remote Usability Testing", "Usability Laboratory"],
+      "skills": ["Vue.js", "Javascript", "Firebase"],
+      "mentor": "TBA (Brazil)",
+      "difficulty": "Medium"
+    },
+    {
+      "year": 2023,
+      "title": "Integration of an eye tracking recognition system",
+      "size": "medium",
+      "hours": 175,
+      "description": "Research already existing eye tracking algorithms to see their boundaries and differences to keep up developing an own existing algorithm using js for a front-end system.",
+      "keywords": ["Artificial Intelligence (AI)", "Accessibility", "Javascript", "Front-end"],
+      "skills": ["Vue.js", "Python", "Flask", "TensorflowJS", "SKLearn", "Firebase"],
+      "mentor": "TBA",
+      "difficulty": "Medium"
+    },
+    {
+      "year": 2023,
+      "title": "Integration of heat maps into Remote Usability LAB",
+      "size": "medium",
+      "hours": 175,
+      "description": "Develop and integrate a tool that allows to record the different heat maps including scroll maps, click maps, and move maps.",
+      "keywords": ["Artificial Intelligence (AI)", "Remote Usability Testing", "Development"],
+      "skills": ["JavaScript", "Front-end Development"],
+      "mentor": "TBA (Colombia)",
+      "difficulty": "Easy"
+    },
+    {
+      "year": 2023,
+      "title": "Scroll Maps",
+      "size": "medium",
+      "hours": 175,
+      "description": "Develop a scroll map tool that shows the exact percentage of people who scroll down to any point on the page.",
+      "keywords": ["Artificial Intelligence (AI)", "Remote Usability Testing", "Development"],
+      "skills": ["JavaScript", "Front-end Development"],
+      "mentor": "TBA (Spain)",
+      "difficulty": "Easy"
+    },
+    {
+      "year": 2023,
+      "title": "Click Maps",
+      "size": "medium",
+      "hours": 175,
+      "description": "Develop a click map tool that shows an aggregate of where visitors click their mouse on desktop devices and tap their finger on mobile devices.",
+      "keywords": ["Artificial Intelligence (AI)", "Remote Usability Testing", "Development"],
+      "skills": ["JavaScript", "Front-end Development"],
+      "mentor": "TBA (Argentina)",
+      "difficulty": "Easy"
+    },
+    {
+      "year": 2021,
+      "title": "Virtual Reality app to virtual prototyping UI into VR",
+      "size": "big",
+      "hours": 350,
+      "description": "Create a new method of prototyping Virtual Reality on VR - a tool that allows to prototype UI into VR.",
+      "keywords": ["User Experience (UX)", "Remote Usability", "Research", "Virtual Reality"],
+      "skills": ["Unity", "C#", "Python"],
+      "mentor": "TBA (Brazil and Spain)",
+      "difficulty": "Hard"
+    },
+    {
+      "year": 2021,
+      "title": "Implementation of an Open Source tool based on usability remote testing",
+      "size": "big",
+      "hours": 350,
+      "description": "Development of a set of tools that will provide the foundations of an open source community that helps to develop the future of the usability LABs in remote environments.",
+      "keywords": ["Remote Usability Testing", "Usability Laboratory"],
+      "skills": ["Vue.js", "Javascript", "Firebase"],
+      "mentor": "TBA (Brazil)",
+      "difficulty": "Medium"
+    },
+    {
+      "year": 2021,
+      "title": "Continue development of an eye tracking recognition system",
+      "size": "medium",
+      "hours": 175,
+      "description": "Research already existing eye tracking algorithms to see their boundaries and differences to keep up developing an own existing algorithm using js for a front-end system.",
+      "keywords": ["Artificial Intelligence (AI)", "Accessibility", "Javascript", "Front-end"],
+      "skills": ["Vue.js", "Python", "Flask", "TensorflowJS", "SKLearn", "Firebase"],
+      "mentor": "TBA",
+      "difficulty": "Medium"
+    },
+    {
+      "year": 2021,
+      "title": "Face recognition system detection applied to the study of usability tests",
+      "size": "big",
+      "hours": 350,
+      "description": "Develop a method to integrate sentimental analysis with the other different tools in order to create user journey maps that could provide more insights.",
+      "keywords": ["Artificial Intelligence (AI)", "Sentimental Analysis", "Journey Maps", "Research"],
+      "skills": ["Python", "Machine Learning", "Computer Vision"],
+      "mentor": "TBA (Brazil)",
+      "difficulty": "Hard"
+    },
+    {
+      "year": 2021,
+      "title": "UX applied to new user interfaces",
+      "size": "medium",
+      "hours": 175,
+      "description": "Find new heuristics methods that can be applied to new UI with the focus on voice user interfaces (VUI), VR and AR systems.",
+      "keywords": ["User Experience (UX)", "User Interfaces (UIs)", "Heuristics", "Research"],
+      "skills": ["UX Research", "Heuristic Evaluation"],
+      "mentor": "TBA (Spain)",
+      "difficulty": "Hard"
+    },
+    {
+      "year": 2021,
+      "title": "Integration of heat maps into Remote Usability LAB",
+      "size": "medium",
+      "hours": 175,
+      "description": "Develop and integrate a tool that allows to record the different heat maps including scroll maps, click maps, and move maps.",
+      "keywords": ["Artificial Intelligence (AI)", "Remote Usability Testing", "Development"],
+      "skills": ["JavaScript", "Front-end Development"],
+      "mentor": "TBA (Colombia)",
+      "difficulty": "Easy"
+    }
+  ]
+}

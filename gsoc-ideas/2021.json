@@ -1,0 +1,115 @@
+{
+  "year": 2021,
+  "projects": [
+    {
+      "title": "Virtual Reality app to virtual prototyping UI into VR",
+      "size": "big",
+      "hours": 350,
+      "description": "Create a new method of prototyping Virtual Reality on VR - a tool that allows to prototype UI into VR.",
+      "keywords": ["User Experience (UX)", "Remote Usability", "Research", "Virtual Reality"],
+      "skills": ["Unity", "C#", "Python"],
+      "mentor": "TBA (Brazil and Spain)",
+      "difficulty": "Hard"
+    },
+    {
+      "title": "Implementation of an Open Source tool based on usability remote testing",
+      "size": "big",
+      "hours": 350,
+      "description": "Development of a set of tools that will provide the foundations of an open source community that helps to develop the future of the usability LABs in remote environments.",
+      "keywords": ["Remote Usability Testing", "Usability Laboratory"],
+      "skills": ["Vue.js", "Javascript", "Firebase"],
+      "mentor": "TBA (Brazil)",
+      "difficulty": "Medium"
+    },
+    {
+      "title": "Face recognition system detection applied to the study of usability tests",
+      "size": "big",
+      "hours": 350,
+      "description": "Develop a method to integrate sentimental analysis with the other different tools in order to create user journey maps that could provide more insights.",
+      "keywords": ["Artificial Intelligence (AI)", "Sentimental Analysis", "Journey Maps", "Research"],
+      "skills": ["Python", "Machine Learning", "Computer Vision"],
+      "mentor": "TBA (Brazil)",
+      "difficulty": "Hard"
+    },
+    {
+      "title": "Evaluation emotional responses on usability tests",
+      "size": "big",
+      "hours": 350,
+      "description": "Create a tool to perform usability tests that analyses emotion of users, both verbal and nonverbal, combined with different methods like Heat Maps.",
+      "keywords": ["Artificial Intelligence (AI)", "Remote Usability Testing", "Research", "Emotion Analysis"],
+      "skills": ["Python", "Machine Learning", "Emotion Recognition"],
+      "mentor": "TBA (Brazil)",
+      "difficulty": "Medium"
+    },
+    {
+      "title": "Continue development of an eye tracking recognition system",
+      "size": "medium",
+      "hours": 175,
+      "description": "Research already existing eye tracking algorithms to see their boundaries and differences to keep up developing an own existing algorithm using js for a front-end system.",
+      "keywords": ["Artificial Intelligence (AI)", "Accessibility", "Javascript", "Front-end"],
+      "skills": ["Vue.js", "Python", "Flask", "TensorflowJS", "SKLearn", "Firebase"],
+      "mentor": "TBA",
+      "difficulty": "Medium"
+    },
+    {
+      "title": "UX applied to new user interfaces",
+      "size": "medium",
+      "hours": 175,
+      "description": "Find new heuristics methods that can be applied to new UI with the focus on voice user interfaces (VUI), VR and AR systems.",
+      "keywords": ["User Experience (UX)", "User Interfaces (UIs)", "Heuristics", "Research", "VUI", "VR", "AR"],
+      "skills": ["UX Research", "Heuristic Evaluation"],
+      "mentor": "TBA (Spain)",
+      "difficulty": "Hard"
+    },
+    {
+      "title": "Integration of heat maps into Remote Usability LAB",
+      "size": "medium",
+      "hours": 175,
+      "description": "Develop and integrate a tool that allows to record the different heat maps including scroll maps, click maps, and move maps.",
+      "keywords": ["Artificial Intelligence (AI)", "Remote Usability Testing", "Development"],
+      "skills": ["JavaScript", "Front-end Development"],
+      "mentor": "TBA (Colombia)",
+      "difficulty": "Easy"
+    },
+    {
+      "title": "Scroll Maps",
+      "size": "medium",
+      "hours": 175,
+      "description": "Develop a scroll map tool that shows the exact percentage of people who scroll down to any point on the page.",
+      "keywords": ["Artificial Intelligence (AI)", "Remote Usability Testing", "Development"],
+      "skills": ["JavaScript", "Front-end Development"],
+      "mentor": "TBA (Spain)",
+      "difficulty": "Easy"
+    },
+    {
+      "title": "Click Maps",
+      "size": "medium",
+      "hours": 175,
+      "description": "Develop a click map tool that shows an aggregate of where visitors click their mouse on desktop devices and tap their finger on mobile devices.",
+      "keywords": ["Artificial Intelligence (AI)", "Remote Usability Testing", "Development"],
+      "skills": ["JavaScript", "Front-end Development"],
+      "mentor": "TBA (Argentina)",
+      "difficulty": "Easy"
+    },
+    {
+      "title": "Move Maps",
+      "size": "medium",
+      "hours": 175,
+      "description": "Track where desktop users move their mouse as they navigate the page, providing an indication of where people might be looking.",
+      "keywords": ["Artificial Intelligence (AI)", "Remote Usability Testing", "Development", "Eye Tracking"],
+      "skills": ["JavaScript", "Front-end Development", "Computer Vision"],
+      "mentor": "TBA (Brazil)",
+      "difficulty": "Hard"
+    },
+    {
+      "title": "Voice Design UX",
+      "size": "medium",
+      "hours": 175,
+      "description": "Create and analyze new heuristics that could be addressed for Voice User Interfaces (VUI) for IoT products like Alexa, Google Home or Siri.",
+      "keywords": ["IoT", "Remote Usability", "Heuristics", "Research", "Voice User Interfaces"],
+      "skills": ["Javascript", "UX Research", "Heuristic Evaluation"],
+      "mentor": "TBA",
+      "difficulty": "Medium"
+    }
+  ]
+}

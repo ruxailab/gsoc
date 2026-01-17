@@ -1,0 +1,42 @@
+{
+  "year": 2026,
+  "category": "nlp",
+  "projects": [
+    {
+      "title": "AI-Driven NLP Engine for Usability Test Results Analysis",
+      "size": "big",
+      "hours": 350,
+      "description": "This project aims to design and implement an NLP-based analysis engine that automatically processes qualitative usability test data, including open-ended answers, task observations, moderator notes, and transcripts. The system will transform raw textual data into structured insights, supporting both researchers and practitioners in large-scale usability studies.",
+      "keyFeatures": [
+        "Automatic Text Normalization & Cleaning",
+        "Semantic Analysis of User Feedback",
+        "Methodology-Aware Output (heuristics, SUS, NASA-TLX, user testing)",
+        "Explainable AI Outputs",
+        "Integration with RUXAILAB Reports"
+      ],
+      "expectedOutcome": "An NLP engine capable of transforming raw usability test text into structured, explainable insights.",
+      "keywords": ["NLP", "Usability Testing", "Qualitative Analysis", "Explainable AI", "UX Research"],
+      "skills": ["Python", "NLP (spaCy / transformers)", "Data Analysis"],
+      "mentor": "Marc",
+      "difficulty": "Hard"
+    },
+    {
+      "title": "Study-Aware Prompt Generation System for AI-Assisted Evaluations",
+      "size": "medium",
+      "hours": 175,
+      "description": "This project focuses on designing a prompt-generation framework that automatically creates methodology-specific prompts for AI-assisted usability and UX evaluations.",
+      "keyFeatures": [
+        "Methodology Templates",
+        "Parameterizable Prompt Builder",
+        "Prompt Versioning & Traceability",
+        "Evaluation Alignment Checks",
+        "Seamless RUXAILAB Integration"
+      ],
+      "expectedOutcome": "A robust prompt-generation subsystem ensuring consistent and reproducible AI-based evaluations.",
+      "keywords": ["Prompt Engineering", "UX Methodologies", "AI Evaluation", "Research Reproducibility"],
+      "skills": ["Python", "Prompt Engineering", "UX Research Methods"],
+      "mentor": "Marc",
+      "difficulty": "Medium"
+    }
+  ]
+}

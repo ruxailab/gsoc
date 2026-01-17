@@ -1,0 +1,55 @@
+{
+  "year": 2023,
+  "projects": [
+    {
+      "title": "Refactor User Testing workflow and layout",
+      "size": "big",
+      "hours": 350,
+      "description": "Development of a set of tools that will provide the foundations of an open source community that helps to develop the future of the usability LABs in remote environments.",
+      "keywords": ["Remote Usability Testing", "Usability Laboratory"],
+      "skills": ["Vue.js", "Javascript", "Firebase"],
+      "mentor": "TBA (Brazil)",
+      "difficulty": "Medium"
+    },
+    {
+      "title": "Integration of an eye tracking recognition system",
+      "size": "medium",
+      "hours": 175,
+      "description": "Research already existing eye tracking algorithms to see their boundaries and differences to keep up developing an own existing algorithm using js for a front-end system.",
+      "keywords": ["Artificial Intelligence (AI)", "Accessibility", "Javascript", "Front-end"],
+      "skills": ["Vue.js", "Python", "Flask", "TensorflowJS", "SKLearn", "Firebase"],
+      "mentor": "TBA",
+      "difficulty": "Medium"
+    },
+    {
+      "title": "Integration of heat maps into Remote Usability LAB",
+      "size": "medium",
+      "hours": 175,
+      "description": "Develop and integrate a tool that allows to record the different heat maps including scroll maps, click maps, and move maps.",
+      "keywords": ["Artificial Intelligence (AI)", "Remote Usability Testing", "Development"],
+      "skills": ["JavaScript", "Front-end Development"],
+      "mentor": "TBA (Colombia)",
+      "difficulty": "Easy"
+    },
+    {
+      "title": "Scroll Maps",
+      "size": "medium",
+      "hours": 175,
+      "description": "Develop a scroll map tool that shows the exact percentage of people who scroll down to any point on the page.",
+      "keywords": ["Artificial Intelligence (AI)", "Remote Usability Testing", "Development"],
+      "skills": ["JavaScript", "Front-end Development"],
+      "mentor": "TBA (Spain)",
+      "difficulty": "Easy"
+    },
+    {
+      "title": "Click Maps",
+      "size": "medium",
+      "hours": 175,
+      "description": "Develop a click map tool that shows an aggregate of where visitors click their mouse on desktop devices and tap their finger on mobile devices.",
+      "keywords": ["Artificial Intelligence (AI)", "Remote Usability Testing", "Development"],
+      "skills": ["JavaScript", "Front-end Development"],
+      "mentor": "TBA (Argentina)",
+      "difficulty": "Easy"
+    }
+  ]
+}

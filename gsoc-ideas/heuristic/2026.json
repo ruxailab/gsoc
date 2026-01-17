@@ -1,0 +1,60 @@
+{
+  "year": 2026,
+  "category": "heuristic",
+  "projects": [
+    {
+      "title": "AI Tool for Heuristic Evaluation",
+      "size": "big",
+      "hours": 350,
+      "description": "This project aims to develop an AI-based heuristic evaluation tool capable of automatically assessing usability issues in digital interfaces, mimicking the analysis of an expert usability evaluator. The system will apply well-established usability heuristics, such as Nielsen's Heuristics, to evaluate web pages and identify usability problems based on structured guidelines. The tool will generate detailed reports with quantitative scores and qualitative insights, helping designers and developers improve their interfaces.",
+      "keyFeatures": [
+        "Automated Heuristic Evaluation: Utilize AI to systematically analyze web pages based on usability heuristics",
+        "Expert-Level Analysis: Develop machine learning models trained on usability best practices to identify common usability problems such as poor feedback, inconsistent navigation, and inefficient workflows",
+        "Multi-Dimensional Reporting: Generate both quantitative usability scores and qualitative insights that explain detected usability issues similarly as RUXAILAB is doing right now",
+        "Continuous Learning Mechanism: Enhance evaluation accuracy by refining AI models based on expert reviews and user feedback",
+        "Integration with RUXAILAB: Seamlessly integrate with the existing usability evaluation tools within RUXAILAB"
+      ],
+      "expectedOutcome": "A fully automated heuristic evaluation tool that functions as an AI-based usability expert, identifying and reporting usability issues based on standard heuristic guidelines.",
+      "keywords": [
+        "Artificial Intelligence (AI)",
+        "Usability Testing",
+        "Heuristic Evaluation",
+        "Data Analysis",
+        "Machine Learning",
+        "UI/UX Optimization"
+      ],
+      "skills": ["Python", "JavaScript", "NLP for Report Generation"],
+      "mentor": "Marc",
+      "difficulty": "Hard"
+    },
+    {
+      "title": "Heuristic Evaluation Report Layout and Readability Improvements",
+      "size": "small",
+      "hours": 90,
+      "description": "This project aims to improve the layout, readability, and usability of the heuristic evaluation reports generated in RUXAILAB. The focus is on enhancing how results are presented (structure, hierarchy, visual summaries, and navigation) so that evaluators, designers, and developers can quickly understand key findings and prioritize fixes.",
+      "keyFeatures": [
+        "Report Information Architecture: Define a clearer structure with consistent sections (overview, summary, findings, recommendations, appendix)",
+        "Visual Summary Components: Add concise summary blocks (overall score, per-heuristic score distribution, top issues) to support quick scanning",
+        "Finding Cards and Severity Emphasis: Improve readability of issues with structured cards, highlighting severity, evidence, and suggested fixes",
+        "Navigation and Filtering: Add internal navigation (anchors, collapsible sections) and optional filters by heuristic/severity/category",
+        "Export Consistency: Ensure layout consistency across formats (web view and exported PDF/HTML) and across different report sizes"
+      ],
+      "expectedOutcome": "A redesigned heuristic evaluation report layout that is easier to scan, understand, and act upon, improving the practical value of RUXAILAB’s evaluation outputs.",
+      "keywords": [
+        "Heuristic Evaluation",
+        "UX Reporting",
+        "Information Architecture",
+        "Data Visualization",
+        "UI/UX"
+      ],
+      "skills": [
+        "JavaScript",
+        "Frontend Development",
+        "UI/UX Design",
+        "HTML/CSS"
+      ],
+      "mentor": "Arnau Torrente",
+      "difficulty": "Easy"
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "year": 2024,
+  "projects": [
+    {
+      "title": "Eye Tracking Algorithm Optimization",
+      "size": "big",
+      "hours": 350,
+      "description": "Optimize existing eye tracking algorithms to improve their efficiency and accuracy, with real-time capabilities integrated with RUXAILAB project.",
+      "keywords": ["Artificial Intelligence (AI)", "Algorithm Optimization", "Eye Tracking", "Javascript", "Front-end"],
+      "skills": ["Javascript", "Algorithm Optimization"],
+      "mentor": "Vinicius",
+      "difficulty": "Hard"
+    },
+    {
+      "title": "Data Extraction for Sentiment Analysis from Usability Tests",
+      "size": "big",
+      "hours": 350,
+      "description": "Develop tools and algorithms for extracting data from moderated and unmoderated usability tests specifically for sentiment analysis purposes using NLP techniques.",
+      "keywords": ["Sentiment Analysis", "Usability Testing", "Data Extraction", "Natural Language Processing (NLP)"],
+      "skills": ["Natural Language Processing (NLP)", "Data Extraction", "Sentiment Analysis"],
+      "mentor": "Vinicius",
+      "difficulty": "Hard"
+    },
+    {
+      "title": "Integration of heat maps into Remote Usability LAB",
+      "size": "medium",
+      "hours": 175,
+      "description": "Develop and integrate a tool that allows to record different heat maps including scroll maps, click maps, and move maps.",
+      "keywords": ["Artificial Intelligence (AI)", "Remote Usability Testing", "Development"],
+      "skills": ["JavaScript", "Front-end Development"],
+      "mentor": "Karine",
+      "difficulty": "Easy"
+    },
+    {
+      "title": "Implementation of Card Sorting method on RUXAILAB",
+      "size": "medium",
+      "hours": 175,
+      "description": "Implement a novel usability analysis method based on card sorting, a research technique involving the categorization and organization of information through user collaboration.",
+      "keywords": ["Usability", "Card Sorting", "Interface Design", "User Experience", "User Research", "Usability Analysis"],
+      "skills": ["Interface Design", "User Experience", "User Research", "Qualitative Data Analysis"],
+      "mentor": "TBA",
+      "difficulty": "Medium"
+    }
+  ]
+}

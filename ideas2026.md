@@ -17,7 +17,7 @@ All the current ideas for GSoC2026 are listed bellow:
   **Keywords:** Artificial Intelligence (AI), Usability Testing, Heuristic Evaluation, Data Analysis, Machine Learning, UI/UX Optimization  
   **Expected Outcome:** A **fully automated heuristic evaluation tool** that functions as an **AI-based usability expert**, identifying and reporting usability issues based on standard heuristic guidelines.  
   **Skills Required:** Python, JavaScript, NLP for Report Generation  
-  **Mentor:** Marc González  
+  **Mentor:** Marc  
   **Difficulty:** Hard
 
 ### AI-Driven NLP Engine for Usability Test Results Analysis (350h)  
@@ -34,7 +34,7 @@ This project aims to **design and implement an NLP-based analysis engine** that 
 **Keywords:** NLP, Usability Testing, Qualitative Analysis, Explainable AI, UX Research  
 **Expected Outcome:** An **NLP engine capable of transforming raw usability test text into structured, explainable insights**.  
 **Skills Required:** Python, NLP (spaCy / transformers), Data Analysis  
-**Mentor:** Marc González  
+**Mentor:** Marc  
 **Difficulty:** Hard  
 
 
@@ -54,7 +54,7 @@ This project aims to **implement a structured logging and traceability system** 
 **Keywords:** Logging Systems, Research Traceability, UX Evaluation, Software Architecture  
 **Expected Outcome:** A **comprehensive logging framework** for scientific-grade usability research.  
 **Skills Required:** Python, Backend Development, Software Architecture  
-**Mentor:** Marc González  
+**Mentor:** Marc  
 **Difficulty:** Medium  
 
 ### Study-Aware Prompt Generation System for AI-Assisted Evaluations (175h)  
@@ -71,7 +71,7 @@ This project focuses on **designing a prompt-generation framework** that automat
 **Keywords:** Prompt Engineering, UX Methodologies, AI Evaluation, Research Reproducibility  
 **Expected Outcome:** A **robust prompt-generation subsystem** ensuring consistent and reproducible AI-based evaluations.  
 **Skills Required:** Python, Prompt Engineering, UX Research Methods  
-**Mentor:** Marc González  
+**Mentor:** Marc  
 **Difficulty:** Medium  
 
 ### Implementation of A/B Testing Capability in RUXAILAB (175h)  

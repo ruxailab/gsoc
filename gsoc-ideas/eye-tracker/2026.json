@@ -1,0 +1,148 @@
+{
+  "year": 2026,
+  "projects": [
+    {
+      "title": "Advanced Eye-Tracking Accuracy Calibration and Correction Framework",
+      "size": "big",
+      "hours": 350,
+      "description": "This project aims to significantly improve eye-tracking accuracy in RUXAILAB by designing and implementing an advanced calibration, correction, and validation framework. The focus is on reducing noise, drift, and systematic errors commonly found in low-cost and webcam-based eye trackers, enabling research-grade gaze data for usability studies.",
+      "keyFeatures": [
+        "Multi-Stage Calibration Pipeline: Implement adaptive calibration procedures beyond standard point-based calibration",
+        "Drift Detection and Compensation: Detect gaze drift during sessions and apply corrective models in near real time",
+        "Signal Filtering and Smoothing: Apply temporal/spatial filters to reduce jitter and improve stability",
+        "Accuracy Metrics and Validation Tools: Compute precision, accuracy, and data loss metrics per session and per user",
+        "Hardware-Agnostic Design: Support webcam-based tracking as well as external eye-tracking devices"
+      ],
+      "expectedOutcome": "A robust accuracy-improvement framework that transforms raw gaze signals into reliable, research-grade eye-tracking measurements within RUXAILAB.",
+      "keywords": [
+        "Eye Tracking",
+        "Calibration",
+        "Signal Processing",
+        "Computer Vision",
+        "HCI",
+        "UX Research"
+      ],
+      "skills": [
+        "Python",
+        "Signal Processing",
+        "Computer Vision",
+        "Data Analysis"
+      ],
+      "mentor": "Marc",
+      "difficulty": "Hard"
+    },
+    {
+      "title": "Real-Time Gaze Visualization and Streaming Module",
+      "size": "medium",
+      "hours": 175,
+      "description": "This project focuses on developing a real-time gaze visualization system that allows researchers and moderators to see where the user is looking on the screen while a usability test is running. The module will support low-latency streaming, on-screen overlays, and basic eye-movement event visualization to enhance observation and study quality.",
+      "keyFeatures": [
+        "Real-Time Gaze Overlay: Display gaze points and optionally fixation paths directly over the evaluated interface",
+        "Low-Latency Streaming: Stream gaze data with minimal delay for live observation and moderation",
+        "Fixation and Saccade Detection: Identify and visualize basic eye-movement events during the session",
+        "Observer Controls: Provide pause, replay, zoom, and visualization layer toggles",
+        "Integration with RUXAILAB Sessions: Attach gaze streams to existing study sessions and store them for later review"
+      ],
+      "expectedOutcome": "A live gaze visualization tool integrated into RUXAILAB that enables real-time observation of user attention and supports more effective moderation and analysis.",
+      "keywords": [
+        "Eye Tracking",
+        "Real-Time Visualization",
+        "Data Streaming",
+        "UX Testing",
+        "HCI"
+      ],
+      "skills": [
+        "Python",
+        "JavaScript",
+        "WebSockets or WebRTC",
+        "Data Visualization"
+      ],
+      "mentor": "Karine",
+      "difficulty": "Medium"
+    },
+    {
+      "title": "Eye-Tracking Data Quality Monitoring and Real-Time Feedback System",
+      "size": "medium",
+      "hours": 175,
+      "description": "This project aims to continuously assess eye-tracking data quality during test sessions and provide real-time feedback when accuracy degrades. The system will monitor quality indicators (precision, signal loss, noise) and recommend actions such as recalibration to ensure trustworthy gaze datasets for research and reporting.",
+      "keyFeatures": [
+        "Real-Time Quality Metrics: Monitor precision, noise, and data loss continuously during sessions",
+        "Automatic Quality Alerts: Notify moderators when recalibration or environmental adjustments are recommended",
+        "Session-Level Quality Reports: Summarize gaze quality per task and per session for research traceability",
+        "User-Specific Quality Profiling: Track quality variation across users, devices, lighting conditions, and screen setups",
+        "Integration with Logging: Store quality metrics alongside study logs for auditing and reproducibility"
+      ],
+      "expectedOutcome": "A quality-aware eye-tracking subsystem that increases reliability and trust in gaze data collected in RUXAILAB and reduces unusable sessions.",
+      "keywords": [
+        "Eye Tracking",
+        "Data Quality",
+        "Monitoring",
+        "UX Research Infrastructure",
+        "Signal Processing"
+      ],
+      "skills": [
+        "Python",
+        "Data Analysis",
+        "Signal Processing",
+        "Backend Development"
+      ],
+      "mentor": "Marc",
+      "difficulty": "Medium"
+    },
+    {
+      "title": "Eye-Tracking Accuracy Benchmarking and Validation Tool",
+      "size": "small",
+      "hours": 90,
+      "description": "This project aims to build a benchmarking utility to objectively measure eye-tracking accuracy and precision across different devices, setups, and environments. It will provide standardized tasks with known targets and generate comparable metrics and visualizations to quantify gaze error and stability.",
+      "keyFeatures": [
+        "Controlled Accuracy Tasks: Present known on-screen targets to compute gaze error",
+        "Precision and Accuracy Metrics: Calculate spatial error, stability, and data loss indicators",
+        "Device and Setup Comparison: Compare results across webcam-based tracking and external devices",
+        "Exportable Benchmark Results: Generate datasets and plots for research reporting and reproducibility",
+        "Integration with RUXAILAB: Allow running benchmarks as a study type or pre-study validation step"
+      ],
+      "expectedOutcome": "A standardized benchmarking tool that quantifies eye-tracking accuracy and supports device/setup validation in RUXAILAB.",
+      "keywords": [
+        "Eye Tracking",
+        "Benchmarking",
+        "Validation",
+        "UX Research",
+        "Data Analysis"
+      ],
+      "skills": [
+        "Python",
+        "Data Analysis",
+        "Visualization"
+      ],
+      "mentor": "Karine",
+      "difficulty": "Easy"
+    },
+    {
+      "title": "Real-Time Gaze Cursor Overlay for Live Observation",
+      "size": "small",
+      "hours": 90,
+      "description": "This project focuses on implementing a lightweight real-time gaze cursor overlay that visually represents where the user is looking during a usability test. The goal is to provide an immediate, low-overhead visualization that supports live demos, moderation, and quick qualitative insights.",
+      "keyFeatures": [
+        "On-Screen Gaze Cursor: Display a dot/cursor following the user’s gaze in real time",
+        "Configurable Visualization: Adjust smoothing, size, opacity, and optional trail rendering",
+        "Fixation Highlighting: Optionally distinguish fixations from raw gaze points",
+        "Low-Overhead Integration: Minimize performance impact on the evaluated interface and the test session",
+        "Compatibility with Streaming Module: Reuse the same data channel if real-time streaming is present"
+      ],
+      "expectedOutcome": "A simple, effective real-time gaze overlay that improves live observation and demonstration capabilities within RUXAILAB.",
+      "keywords": [
+        "Eye Tracking",
+        "Real-Time Visualization",
+        "UX Testing",
+        "HCI"
+      ],
+      "skills": [
+        "JavaScript",
+        "Frontend Development",
+        "Basic Data Visualization"
+      ],
+      "mentor": "Karine",
+      "difficulty": "Easy"
+    }
+  ]
+}

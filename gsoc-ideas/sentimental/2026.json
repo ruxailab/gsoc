@@ -1,0 +1,149 @@
+{
+  "year": 2026,
+  "projects": [
+    {
+      "title": "Sentiment Taxonomy Definition and Dataset Construction for Usability Research",
+      "size": "big",
+      "hours": 350,
+      "description": "This project aims to define a scientifically grounded sentiment and affect taxonomy specifically tailored to usability and UX research, and to construct a high-quality annotated dataset to support reliable sentiment analysis in RUXAILAB. The work addresses current limitations of generic facial sentiment models by identifying which emotions, affective states, and reactions are meaningful in usability contexts (e.g., frustration, confusion, satisfaction, cognitive overload).",
+      "keyFeatures": [
+        "State-of-the-Art Review: Analyze existing sentiment, emotion, and affect models used in HCI, UX, and Affective Computing",
+        "Usability-Oriented Sentiment Taxonomy: Define a reduced and meaningful set of emotions and affective states relevant to usability studies",
+        "Annotation Guidelines: Design clear annotation protocols suitable for facial, vocal, and textual data",
+        "Dataset Construction: Build and curate a multimodal dataset (face, voice, text) aligned with usability testing scenarios",
+        "Ethics and Anonymization: Ensure compliance with ethical standards and privacy regulations"
+      ],
+      "expectedOutcome": "A validated sentiment taxonomy and a high-quality annotated dataset specifically designed for usability and UX research, enabling more accurate and meaningful sentiment analysis in RUXAILAB.",
+      "keywords": [
+        "Sentiment Analysis",
+        "Affective Computing",
+        "UX Research",
+        "Dataset Construction",
+        "Human-Computer Interaction"
+      ],
+      "skills": [
+        "Python",
+        "Data Annotation",
+        "Machine Learning",
+        "UX Research Methods"
+      ],
+      "mentor": "Marc",
+      "difficulty": "Hard"
+    },
+    {
+      "title": "Multimodal Sentiment Analysis Engine for Usability Studies",
+      "size": "big",
+      "hours": 350,
+      "description": "This project focuses on designing and implementing a multimodal sentiment analysis engine that combines facial expressions, voice signals, and textual transcriptions to infer user affective states during usability tests. The system will leverage the usability-oriented sentiment taxonomy defined in RUXAILAB and provide explainable outputs suitable for research and reporting.",
+      "keyFeatures": [
+        "Facial Sentiment Analysis Refinement: Improve existing facial emotion models using the new usability-oriented dataset",
+        "Voice-Based Emotion Recognition: Extract emotional cues from prosody, tone, and speech patterns",
+        "Textual Sentiment and Intent Analysis: Analyze transcriptions, task answers, and comments using NLP techniques",
+        "Multimodal Fusion Strategies: Combine face, voice, and text signals into a unified sentiment inference model",
+        "Explainable Outputs: Provide confidence scores and modality-specific contributions for transparency"
+      ],
+      "expectedOutcome": "A research-grade multimodal sentiment analysis engine that produces reliable and explainable affective insights tailored to usability testing scenarios.",
+      "keywords": [
+        "Multimodal Sentiment Analysis",
+        "Affective Computing",
+        "NLP",
+        "Speech Analysis",
+        "UX Evaluation"
+      ],
+      "skills": [
+        "Python",
+        "Machine Learning",
+        "Deep Learning",
+        "NLP",
+        "Signal Processing"
+      ],
+      "mentor": "Marc",
+      "difficulty": "Hard"
+    },
+    {
+      "title": "Voice and Speech Analysis for Emotion and Cognitive State Detection",
+      "size": "medium",
+      "hours": 175,
+      "description": "This project aims to analyze users’ voice recordings captured during usability tests to extract emotional cues, stress indicators, and cognitive states. The focus is on leveraging speech and paralinguistic features to complement facial and textual sentiment analysis in RUXAILAB.",
+      "keyFeatures": [
+        "Speech Feature Extraction: Extract prosodic, spectral, and temporal features from voice recordings",
+        "Emotion and Stress Detection: Identify affective states such as frustration, hesitation, or confidence",
+        "Cognitive Load Indicators: Explore correlations between speech patterns and cognitive effort",
+        "Alignment with Transcriptions: Synchronize voice analysis with textual transcriptions and task timelines",
+        "Integration with RUXAILAB Pipelines: Store extracted features and predictions for reporting and analysis"
+      ],
+      "expectedOutcome": "A voice analysis module that enriches usability studies with emotional and cognitive insights derived from speech.",
+      "keywords": [
+        "Speech Analysis",
+        "Emotion Recognition",
+        "Cognitive Load",
+        "UX Research",
+        "Signal Processing"
+      ],
+      "skills": [
+        "Python",
+        "Signal Processing",
+        "Machine Learning",
+        "Audio Analysis"
+      ],
+      "mentor": "Marc",
+      "difficulty": "Medium"
+    },
+    {
+      "title": "Intent and Semantic Analysis of Transcriptions and User Answers",
+      "size": "medium",
+      "hours": 175,
+      "description": "This project focuses on extracting user intent, expectations, and perceived issues from transcriptions, open-ended answers, and moderator-user dialogues. The goal is to move beyond sentiment polarity and identify what users are trying to achieve, where they struggle, and how they interpret the interface.",
+      "keyFeatures": [
+        "Intent Detection Models: Identify user goals, misunderstandings, and expressed needs from text",
+        "Semantic Topic Extraction: Automatically detect recurring usability issues and themes",
+        "Methodology-Aware Analysis: Adapt NLP outputs to usability testing, interviews, and post-task questionnaires",
+        "Explainable NLP Outputs: Provide traceable links between extracted intents and original text segments",
+        "Integration with Reporting: Generate structured insights for usability reports"
+      ],
+      "expectedOutcome": "An NLP-based intent and semantic analysis module that converts raw transcriptions into actionable usability insights.",
+      "keywords": [
+        "NLP",
+        "Intent Detection",
+        "UX Research",
+        "Text Analysis",
+        "Explainable AI"
+      ],
+      "skills": [
+        "Python",
+        "NLP",
+        "Machine Learning",
+        "Data Analysis"
+      ],
+      "mentor": "Marc",
+      "difficulty": "Medium"
+    },
+    {
+      "title": "Sentiment and Emotion Output Standardization for Usability Reports",
+      "size": "small",
+      "hours": 90,
+      "description": "This project aims to define and implement standardized output formats for sentiment, emotion, and intent analysis results, ensuring they can be consistently integrated into RUXAILAB reports and dashboards.",
+      "keyFeatures": [
+        "Standard Output Schemas: Define JSON structures for sentiment, emotion, and intent outputs",
+        "Severity and Confidence Scoring: Normalize confidence levels and intensity indicators",
+        "Methodology Compatibility: Adapt outputs to different usability evaluation methods",
+        "Human-Readable Summaries: Generate concise textual explanations for reports",
+        "Integration with Existing Reporting Tools: Plug into RUXAILAB’s reporting pipeline"
+      ],
+      "expectedOutcome": "A consistent and reusable output layer that improves clarity, comparability, and interpretability of sentiment-related results.",
+      "keywords": [
+        "Sentiment Analysis",
+        "Reporting",
+        "UX Evaluation",
+        "Data Formatting"
+      ],
+      "skills": [
+        "Python",
+        "Data Modeling",
+        "NLP"
+      ],
+      "mentor": "Eric",
+      "difficulty": "Easy"
+    }
+  ]
+}

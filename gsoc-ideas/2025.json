@@ -1,0 +1,125 @@
+{
+  "year": 2025,
+  "projects": [
+    {
+      "title": "AI-Powered Accessibility Evaluation in RUXAILAB",
+      "size": "big",
+      "hours": 350,
+      "description": "This project aims to develop a comprehensive AI-powered accessibility evaluation system within RUXAILAB, focusing on automating and enhancing WCAG compliance testing. By integrating artificial intelligence with semi-automated evaluation techniques, this system will assist developers and usability experts in identifying and addressing accessibility barriers in digital content, including websites, documents, and mobile applications. The system will provide detailed, multi-dimensional reports, offering both quantitative compliance scores and qualitative insights in plain language.",
+      "keyFeatures": [
+        "Automated WCAG Compliance Testing: Utilize AI-enhanced evaluation tools and integrate existing APIs (e.g., WAVE API) to generate automated accessibility assessments",
+        "AI-Powered Accessibility Insights: Implement machine learning models to detect complex accessibility issues that may not be captured by traditional automated tools, such as color contrast issues, ARIA misconfigurations, and screen reader compatibility problems",
+        "Data Integration and Analysis: Merge results from automated tools and AI-generated insights, creating a comprehensive accessibility evaluation framework",
+        "Semi-Automated Expert Evaluation: Enable expert evaluators to refine AI-generated reports, ensuring higher evaluation accuracy and adaptability",
+        "Quantitative Compliance Scoring: Establish a numerical accessibility index based on WCAG success criteria, enabling users to track and compare improvements over time",
+        "Natural Language Summaries: Use AI-driven text generation to translate technical accessibility reports into readable, actionable insights for designers, developers, and content creators",
+        "Continuous Learning Mechanism: Implement an AI model that improves over time by learning from expert evaluations and new accessibility guidelines"
+      ],
+      "expectedOutcome": "A fully integrated AI-driven accessibility evaluation system that enhances and automates WCAG compliance testing, making accessibility validation more efficient and insightful within RUXAILAB",
+      "keywords": ["Artificial Intelligence (AI)", "Accessibility Testing", "WCAG Compliance", "Data Analysis", "Machine Learning", "Usability Evaluation"],
+      "skills": ["Python", "JavaScript", "AI for Data Analysis", "Machine Learning", "Accessibility Standards (WCAG)", "NLP for Report Generation"],
+      "mentor": "Marc",
+      "difficulty": "Hard"
+    },
+    {
+      "title": "AI Tool for Heuristic Evaluation",
+      "size": "big",
+      "hours": 350,
+      "description": "Develop an AI-based heuristic evaluation tool capable of automatically assessing usability issues in digital interfaces, mimicking the analysis of an expert usability evaluator.",
+      "keywords": ["Artificial Intelligence (AI)", "Usability Testing", "Heuristic Evaluation", "Data Analysis", "Machine Learning", "UI/UX Optimization"],
+      "skills": ["Python", "JavaScript", "NLP for Report Generation"],
+      "mentor": "Marc",
+      "difficulty": "Hard"
+    },
+    {
+      "title": "Integration of Heat Maps into Remote Usability LAB",
+      "size": "big",
+      "hours": 350,
+      "description": "Develop and integrate a comprehensive heatmap recording tool for usability testing inside the RUXAILAB framework, including scroll maps, click maps, and move maps.",
+      "keywords": ["Artificial Intelligence (AI)", "Algorithm Optimization", "JavaScript", "Usability Testing", "Front-end Development"],
+      "skills": ["Python", "JavaScript", "AI for Data Analysis"],
+      "mentor": "Murilo",
+      "difficulty": "Hard"
+    },
+    {
+      "title": "Integration of User Testing into RUXAILAB with Eye Tracking, Sentiment Analysis and Pre-Post Form Tasks",
+      "size": "big",
+      "hours": 350,
+      "description": "Integrate advanced user testing capabilities into RUXAILAB, incorporating eye tracking, sentiment analysis, and structured pre/post-test forms.",
+      "keywords": ["User Testing", "Eye Tracking", "Sentiment Analysis", "AI", "Usability Testing"],
+      "skills": ["Python", "JavaScript", "AI/ML for Sentiment Analysis", "Eye Tracking APIs"],
+      "mentor": "Marc and Karine",
+      "difficulty": "Hard"
+    },
+    {
+      "title": "UI Layout Optimization for RUXAILAB",
+      "size": "medium",
+      "hours": 175,
+      "description": "Redesign the RUXAILAB user interface (UI) to improve usability, accessibility, and responsiveness.",
+      "keywords": ["UI/UX Design", "Accessibility", "Front-end Development", "Usability Testing"],
+      "skills": ["JavaScript", "Vue.js", "CSS", "Figma", "AI for UI Optimization"],
+      "mentor": "Leticia",
+      "difficulty": "Medium"
+    },
+    {
+      "title": "Comparative Analysis and Fine-Tuning of Sentiment Models for Improved System Integration",
+      "size": "medium",
+      "hours": 175,
+      "description": "Compare and fine-tune sentiment analysis models to enhance integration efficiency and scalability within RUXAILAB.",
+      "keywords": ["Sentiment Analysis", "Machine Learning", "AI Optimization", "Scalability", "Performance Metrics"],
+      "skills": ["Python", "NLP", "AI/ML", "Model Optimization"],
+      "mentor": "Karine",
+      "difficulty": "Medium"
+    },
+    {
+      "title": "Transcription Tool for Usability Testing",
+      "size": "medium",
+      "hours": 175,
+      "description": "Create a transcription service designed to streamline usability testing processes within RUXAILAB, allowing testers to activate transcription during specific tasks.",
+      "keywords": ["Speech-to-Text", "Transcription", "Usability Testing", "AI", "Automation"],
+      "skills": ["Python", "NLP", "Speech-to-Text APIs", "Front-End Development"],
+      "mentor": "Anna",
+      "difficulty": "Medium"
+    },
+    {
+      "title": "Implementation of A/B Testing Capability in RUXAILAB",
+      "size": "medium",
+      "hours": 175,
+      "description": "Implement A/B testing functionality within RUXAILAB to enhance usability evaluation and data-driven decision-making.",
+      "keywords": ["A/B Testing", "User Experience", "Usability Testing", "Data Analysis", "Front-End Development"],
+      "skills": ["JavaScript", "Python", "Data Analysis", "UI/UX Testing"],
+      "mentor": "Igor",
+      "difficulty": "Medium"
+    },
+    {
+      "title": "Integration of GitHub Actions with Discord Role Management",
+      "size": "small",
+      "hours": 90,
+      "description": "Integrate GitHub Actions with Discord to automate role creation, pull request management, and collaboration analytics.",
+      "keywords": ["GitHub Actions", "Discord API", "Automation", "Open Source Collaboration", "Workflow Management"],
+      "skills": ["JavaScript", "Python", "GitHub Actions", "Discord API"],
+      "mentor": "Leticia",
+      "difficulty": "Easy"
+    },
+    {
+      "title": "Automating Issue Creation from SonarQube in CI/CD Pipelines",
+      "size": "small",
+      "hours": 90,
+      "description": "Automate the creation of GitHub issues based on SonarQube analysis in a CI/CD pipeline.",
+      "keywords": ["SonarQube", "Software Quality", "CI/CD", "GitHub Actions", "Automation"],
+      "skills": ["Python", "JavaScript", "GitHub Actions", "SonarQube API"],
+      "mentor": "Leticia",
+      "difficulty": "Easy"
+    },
+    {
+      "title": "Enhancing Playwright Testing in RUXAILAB",
+      "size": "small",
+      "hours": 90,
+      "description": "Refine and optimize Playwright-based automated testing in RUXAILAB, improving test efficiency and documentation to enhance maintainability and ease of use.",
+      "keywords": ["Playwright", "Automated Testing", "UI Testing", "Accessibility", "Documentation"],
+      "skills": ["JavaScript", "Playwright", "Automated Testing", "CI/CD", "GitHub Actions", "Technical Writing"],
+      "mentor": "Eric",
+      "difficulty": "Easy"
+    }
+  ]
+}

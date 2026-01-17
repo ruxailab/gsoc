@@ -45,6 +45,20 @@ Your Proposal Document needs to have:
 
 ## Ideas page
 
+### 🎯 Interactive Dashboard
+
+**NEW!** Explore all our GSoC projects in an interactive dashboard with advanced filtering:
+
+👉 **[View Interactive Projects Dashboard](https://ruxailab.github.io/gsoc/)** 👈
+
+Features:
+- Filter by year, project size, and difficulty
+- Search across all project attributes
+- Beautiful, responsive design
+- All projects from 2021-2026 in one place
+
+### Original Ideas Pages
+
 Check out our project's ideas on the [Ideas Page](/ideas2026.md), and see if you find something that catches your attention. If you don't get interested in one of the proposals or have another idea that you want to make, validate it with one of the mentors before submitting your proposal. Check also our ideas list from previous years:
 
 - [2021](/ideas2021.md)

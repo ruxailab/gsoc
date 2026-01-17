@@ -35,7 +35,7 @@ All the current ideas for GSoC2025 are listed bellow:
   **Keywords:** Artificial Intelligence (AI), Usability Testing, Heuristic Evaluation, Data Analysis, Machine Learning, UI/UX Optimization  
   **Expected Outcome:** A **fully automated heuristic evaluation tool** that functions as an **AI-based usability expert**, identifying and reporting usability issues based on standard heuristic guidelines.  
   **Skills Required:** Python, JavaScript, NLP for Report Generation  
-  **Mentor:** Marc González  
+  **Mentor:** Marc  
   **Difficulty:** Hard
 
 
