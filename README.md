@@ -57,6 +57,18 @@ Features:
 - Beautiful, responsive design
 - All projects from 2021-2026 in one place
 
+
+### AI Usage Policy
+
+We strongly discourage the use of AI tools to generate your GSoC proposal. Your proposal must reflect your own understanding, writing skills, and technical planning ability.
+
+AI-assisted coding during the development period is allowed, but you are fully responsible for every line of code you submit. All contributions must follow our architecture and will undergo strict review.
+
+Please read our full policy here:
+
+👉 https://github.com/ruxailab/gsoc/wiki/AI-Policy
+
+
 ### Original Ideas Pages
 
 Check out our project's ideas on the [Ideas Page](/ideas2026.md), and see if you find something that catches your attention. If you don't get interested in one of the proposals or have another idea that you want to make, validate it with one of the mentors before submitting your proposal. Check also our ideas list from previous years:
