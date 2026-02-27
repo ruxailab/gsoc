@@ -2,7 +2,7 @@
 
 For a long time, the evaluation of user interfaces by user testing techniques, has been one of the most successful ways to get feedback from the users. HCI experts usually perform their experimental evaluations sessions in usability labs, indoor facilities with equiped with expensive and not available devices for everybody like eye-tracking devices or multi-rooms with specialised software.
 
-The main goal of RUXAILAB is to create a set of open-source toolchains that helps to perform usability tests in a remote environment based on Artificial Intelligence. Our core is a system that allows to do remote heuristic tests and share the studies to other participants, creating at the same time a social network of developers who wants to get in touch with the studies of their colleagues. In 2024 we expect to keep up the development of eye tracking systems, improve our remote usability test platform, and also work with virtual and augmented reality projects all of them with the use of AI.
+The main goal of RUXAILAB is to create a set of open-source toolchains that helps to perform usability tests in a remote environment based on Artificial Intelligence. Our core is a system that allows to do remote heuristic tests and share the studies to other participants, creating at the same time a social network of developers who wants to get in touch with the studies of their colleagues. In 2026 we expect to keep up the development of eye tracking systems, improve our remote usability test platform, and also work with virtual and augmented reality projects all of them with the use of AI.
 
 ## Before the application
 
@@ -57,7 +57,19 @@ Features:
 - Beautiful, responsive design
 - All projects from 2021-2026 in one place
 
-### Original Ideas Pages
+
+## AI Usage Policy
+
+We strongly discourage the use of AI tools to generate your GSoC proposal. Your proposal must reflect your own understanding, writing skills, and technical planning ability.
+
+AI-assisted coding during the development period is allowed, but you are fully responsible for every line of code you submit. All contributions must follow our architecture and will undergo strict review.
+
+Please read our full policy here:
+
+👉 https://github.com/ruxailab/gsoc/wiki/AI-Policy
+
+
+## Original Ideas Pages
 
 Check out our project's ideas on the [Ideas Page](/ideas2026.md), and see if you find something that catches your attention. If you don't get interested in one of the proposals or have another idea that you want to make, validate it with one of the mentors before submitting your proposal. Check also our ideas list from previous years:
 
