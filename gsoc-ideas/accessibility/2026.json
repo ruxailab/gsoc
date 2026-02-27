@@ -1,0 +1,191 @@
+{
+  "year": 2026,
+  "category": "accessibility",
+  "projects": [
+    {
+      "title": "End-to-End Accessibility Evaluation Platform ",
+      "size": "big",
+      "hours": 350,
+      "description": "This project aims to build a minimum viable end-to-end accessibility evaluation platform based on WCAG-EM and EU public-sector monitoring requirements. The system integrates normative evaluation with user disability profiles to improve both the efficiency and effectiveness of accessibility audits. The platform will guide the evaluation from initial configuration (scope, standards, user profiles), through system exploration and sampling, to profile-driven auditing and traceable reporting. The result is a defensible accessibility evaluation workflow that mirrors how expert evaluators reason in real audits.",
+      "keyFeatures": [
+        "WCAG-EM-based evaluation workflow",
+        "Support for screening and in-depth audits",
+        "Disability-profile-driven test planning",
+        "Automated and assisted auditing",
+        "Traceable reports and structured datasets",
+        "Support for longitudinal monitoring and observatories"
+      ],
+      "expectedOutcome": "A working prototype that evaluates a real website from URL to final report, producing a conformance verdict, evidence-based reports, and structured datasets for comparison and historical analysis.",
+      "keywords": [
+        "Web Accessibility",
+        "WCAG",
+        "WCAG-EM",
+        "EN 301 549",
+        "Accessibility Auditing",
+        "User Disability Profiles"
+      ],
+      "skills": [
+        "Python",
+        "JavaScript",
+        "Web Accessibility (WCAG)",
+        "Data Modelling"
+      ],
+      "mentor": "Afra Pascual",
+      "difficulty": "Hard"
+    },
+    {
+      "title": "Configuration & Disability Profile Engine",
+      "size": "medium",
+      "hours": 175,
+      "description": "Develop the configuration core of the evaluation system, including scope definition, normative targets, and disability profiles as a first-class input. This project focuses on how evaluation strategy is defined before any crawling or auditing begins.",
+      "keyFeatures": [
+        "Configuration models for WCAG, EN 301 549, and legal contexts",
+        "Disability profile catalogue (visual, motor, cognitive, etc.)",
+        "Mapping profiles to criteria, test types, and assistive technologies",
+        "Generation of a profile-aware test matrix"
+      ],
+      "expectedOutcome": "A reusable configuration module that defines what and how the system will evaluate accessibility in a structured and traceable manner.",
+      "keywords": [
+        "Accessibility Configuration",
+        "WCAG",
+        "Disability Profiles",
+        "Evaluation Strategy"
+      ],
+      "skills": [
+        "Python or JavaScript",
+        "JSON Schemas",
+        "Accessibility Fundamentals"
+      ],
+      "mentor": "Afra Pascual",
+      "difficulty": "Medium"
+    },
+    {
+      "title": "System Exploration & Inventory Builder",
+      "size": "medium",
+      "hours": 175,
+      "description": "Build an intelligent exploration engine that analyses a website as a system rather than as isolated pages. The tool identifies page types, common templates, key functionalities, and complete user flows to support representative accessibility sampling.",
+      "keyFeatures": [
+        "Controlled crawling within defined scope",
+        "Automatic detection of mandatory pages (home, contact, accessibility statement, feedback)",
+        "Identification of forms, multimedia, and dynamic components",
+        "Export of a structured inventory for sampling and auditing"
+      ],
+      "expectedOutcome": "A reusable and structured system inventory that supports defensible sampling and accessibility auditing workflows.",
+      "keywords": [
+        "Web Crawling",
+        "DOM Analysis",
+        "Accessibility Evaluation",
+        "System Mapping"
+      ],
+      "skills": [
+        "JavaScript or Python",
+        "Web Scraping",
+        "DOM Analysis"
+      ],
+      "mentor": "Afra Pascual",
+      "difficulty": "Medium"
+    },
+    {
+      "title": "Reporting & Dataset Generator",
+      "size": "medium",
+      "hours": 175,
+      "description": "Transform raw accessibility audit results into normative reports and profile-oriented insights. This project focuses on reporting clarity, traceability, and structured data reuse for monitoring and observatories.",
+      "keyFeatures": [
+        "Generation of technical WCAG-based audit reports",
+        "Impact summaries per disability profile",
+        "Structured exports (JSON, CSV)",
+        "Support for historical comparison and longitudinal analysis"
+      ],
+      "expectedOutcome": "A reporting module that converts accessibility evaluation data into actionable, traceable, and comparable outputs.",
+      "keywords": [
+        "Accessibility Reporting",
+        "WCAG Audits",
+        "Data Export",
+        "Monitoring Systems"
+      ],
+      "skills": [
+        "Python or JavaScript",
+        "Data Processing",
+        "Basic UX Writing"
+      ],
+      "mentor": "Afra Pascual",
+      "difficulty": "Medium"
+    },
+    {
+      "title": "In-Depth Sampling Engine",
+      "size": "small",
+      "hours": 90,
+      "description": "Implement the micro-sampling rules required for in-depth accessibility audits, particularly those defined in EU Decision 2018/1524. The system must generate defensible and legally compliant audit samples.",
+      "keyFeatures": [
+        "Selection of mandatory pages when available",
+        "Detection of complete user processes",
+        "Random sampling extension (+10%)",
+        "Export of a defensible sample table"
+      ],
+      "expectedOutcome": "A standalone sampling module capable of generating legally robust and traceable audit samples.",
+      "keywords": [
+        "Accessibility Sampling",
+        "EU 2018/1524",
+        "WCAG-EM",
+        "Audit Compliance"
+      ],
+      "skills": [
+        "Python or JavaScript",
+        "Data Processing"
+      ],
+      "mentor": "Afra Pascual",
+      "difficulty": "Medium"
+    },
+    {
+      "title": "Profile-Driven Test Matrix Generator",
+      "size": "small",
+      "hours": 90,
+      "description": "Develop the core logic that converts normative accessibility requirements combined with disability profiles into an executable and prioritised test matrix for auditors.",
+      "keyFeatures": [
+        "Profile to criteria to test to assistive technology mapping",
+        "Priority calculation based on user impact",
+        "Output compatible with automated and manual auditing tools"
+      ],
+      "expectedOutcome": "A focused engine that transforms accessibility requirements into an efficient and user-centred audit matrix.",
+      "keywords": [
+        "Accessibility Testing",
+        "Disability Profiles",
+        "WCAG Mapping",
+        "Audit Planning"
+      ],
+      "skills": [
+        "Python",
+        "Data Modelling",
+        "Accessibility Basics"
+      ],
+      "mentor": "Afra Pascual",
+      "difficulty": "Medium"
+    },
+    {
+      "title": "Mandatory Page Detector",
+      "size": "small",
+      "hours": 90,
+      "description": "Automatically detect mandatory pages such as accessibility statements, contact pages, or feedback mechanisms to support legal compliance and defensible sampling in accessibility audits.",
+      "keyFeatures": [
+        "Detection of accessibility statements",
+        "Detection of contact and feedback pages",
+        "Pattern-based identification of legally required content",
+        "Integration with system inventory builder"
+      ],
+      "expectedOutcome": "A helper module that improves compliance detection and strengthens accessibility audit defensibility.",
+      "keywords": [
+        "Accessibility Compliance",
+        "Web Detection",
+        "Legal Requirements",
+        "WCAG Monitoring"
+      ],
+      "skills": [
+        "JavaScript or Python",
+        "Web Scraping",
+        "DOM Analysis"
+      ],
+      "mentor": "Afra Pascual",
+      "difficulty": "Easy"
+    }
+  ]
+}

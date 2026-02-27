@@ -3,7 +3,7 @@
   "projects": [
     {
       "title": "Sentiment Taxonomy Definition and Dataset Construction for Usability Research",
-      "size": "big",
+      "size": "medium",
       "hours": 350,
       "description": "This project aims to define a scientifically grounded sentiment and affect taxonomy specifically tailored to usability and UX research, and to construct a high-quality annotated dataset to support reliable sentiment analysis in RUXAILAB. The work addresses current limitations of generic facial sentiment models by identifying which emotions, affective states, and reactions are meaningful in usability contexts (e.g., frustration, confusion, satisfaction, cognitive overload).",
       "keyFeatures": [
@@ -27,7 +27,7 @@
         "Machine Learning",
         "UX Research Methods"
       ],
-      "mentor": "Marc",
+      "mentor": "Basma Hatem",
       "difficulty": "Hard"
     },
     {
@@ -57,7 +57,7 @@
         "NLP",
         "Signal Processing"
       ],
-      "mentor": "Marc",
+      "mentor": "Basma Hatem",
       "difficulty": "Hard"
     },
     {
@@ -86,7 +86,7 @@
         "Machine Learning",
         "Audio Analysis"
       ],
-      "mentor": "Marc",
+      "mentor": "Basma Hatem",
       "difficulty": "Medium"
     },
     {
@@ -115,7 +115,7 @@
         "Machine Learning",
         "Data Analysis"
       ],
-      "mentor": "Marc",
+      "mentor": "Basma Hatem",
       "difficulty": "Medium"
     },
     {
@@ -142,7 +142,7 @@
         "Data Modeling",
         "NLP"
       ],
-      "mentor": "Eric",
+      "mentor": "Basma Hatem",
       "difficulty": "Easy"
     }
   ]
