@@ -104,7 +104,7 @@ The aim of this project is to develop and integrate a tool that allows to record
 
 Scroll maps show you the exact percentage of people who scroll down to any point on the page: the redder the area, the more visitors saw it. 
 The aim of this project is to find and research similar tools that allow to create this kind of map, explore them and compare them. 
-After initial research, the data will be used to start the analysis of the requirements. Collected data will be used to start developing an own heat scroll map tool.
+After initial research,,,he data will be used to start the analysis of the requirements. Collected data will be used to start developing an own heat scroll map tool.
 
 **Expected outcome:** An implementation of a scroll map based on user interaction in a website
 
