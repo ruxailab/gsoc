@@ -74,7 +74,6 @@ Please read our full policy here:
 Check out our project's ideas on the [Ideas Page](/ideas2026.md), and see if you find something that catches your attention. If you don't get interested in one of the proposals or have another idea that you want to make, validate it with one of the mentors before submitting your proposal. Check also our ideas list from previous years:
 
 - [2021](/ideas2021.md)
-- [2022](/ideas2022.md)
 - [2023](/ideas2023.md)
 - [2024](/ideas2024.md)
 - [2025](/ideas2025.md)
